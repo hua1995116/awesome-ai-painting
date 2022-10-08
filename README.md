@@ -1,14 +1,14 @@
 # 数字绘画
 
 > 记录我使用 AI绘画的过程，帮助更多的人学会 AI画画。
-> 
 
 目前有大量的平台推出了 AI 绘画的能力，这里做一个汇总，有更多的欢迎补充呀，也欢迎一起进群交流（文末二维码）
 
 ## 可使用绘画的平台
+### 📪 国外
 
-|Name                   |Tags    |URL                                                                                                                            |
-|-----------------------|--------|-------------------------------------------------------------------------------------------------------------------------------|
+|Name                   | Tags   |URL                                                                                                                       |
+|-----------------------|-----------|-----------------------------------------------------------------------------------------------------------|
 |midjourney             |新用户免费20次|https://www.midjourney.com/                                                                                                    |
 |wombo.art              |免费      |https://app.wombo.art/                                                                                                         |
 |Google Colab           |免费      |https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb#scrollTo=yEErJFjlrSWS|
@@ -23,12 +23,17 @@
 |生成视频                   |免费      |https://github.com/THUDM/CogVideo                                                                                              |
 |PS插件-绘画生成图片            |-       |https://www.nvidia.com/en-us/studio/canvas/                                                                                    |
 |3D模型                   |免费      |https://colab.research.google.com/drive/1u5-zA330gbNGKVfXMW5e3cmllbfafNNB?usp=sharing                                          |
-|https://art.elbo.ai/lbo|-       |https://art.elbo.ai/                                                                                                           |
+|[elbo](https://art.elbo.ai/lbo)|-       |https://art.elbo.ai/                                                                                                           |
 
-
-[国外](https://www.notion.so/c42aed9173d74260a4f4b39d826c61f8)
-
-[国内](https://www.notion.so/aac4af0755ee4574a80e30b1635b6b02)
+### 🚴🏻 国内
+|Name                                                                                                                              |价格  |URL                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------------------|----|---------------------------------------------------------------------------------------------|
+|[文心大模型](https://wenxin.baidu.com/moduleApi/ernieVilg?uid=1662457087375_978&traceid= )                                                      |暂时免费|https://wenxin.baidu.com/moduleApi/ernieVilg                                                 |
+|文心-一格                                                                                                                             |暂时免费|https://yige.baidu.com/#/                                                                    |
+|6pen                                                                                                                              |部分免费|https://6pen.art/                                                                            |
+|[MuseArt](https://link.zhihu.com/?target=https%3A//www.feishu.cn/invitation/page/add_contact/%3Ftoken%3Ddd8o7895-6809-42b5-9509-fe7d1c33216c)|需要申请|https://www.feishu.cn/invitation/page/add_contact/?token=dd8o7895-6809-42b5-9509-fe7d1c33216c|
+|大画家Domo                                                                                                                           |-   |https://www.domo.cool/                                                                       |
+|微信小程序 - 盗梦师                                                                                                                       |-   |盗梦师                                                                                          |
 
 [非公开](https://www.notion.so/a0d4f6230cde4bb78cb5fddf2cd596ae)
 
