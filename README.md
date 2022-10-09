@@ -26,6 +26,11 @@
 |PS插件-绘画生成图片            |-       |https://www.nvidia.com/en-us/studio/canvas/                                                                                    |
 |3D模型                   |免费      |https://colab.research.google.com/drive/1u5-zA330gbNGKVfXMW5e3cmllbfafNNB?usp=sharing                                          |
 |[elbo](https://art.elbo.ai/lbo)|-       |https://art.elbo.ai/                                                                                                           |
+|deepdreamgenerator|-       |https://deepdreamgenerator.com/                                                                                                           |
+|big-sleep|免费       |https://github.com/lucidrains/big-sleep/                                                                                                           |
+|nightcafe|-       |https://nightcafe.studio/                                                                                                           |
+|craiyon|-       |https://www.craiyon.com/                                                                                                           |
+|novelai|-       |https://novelai.net/                                                                                                           |
 
 ### 🚴🏻 国内
 |Name                                                                                                                              | 价格  |URL                                                                                          |
