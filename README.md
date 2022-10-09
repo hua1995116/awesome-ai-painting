@@ -41,7 +41,8 @@
 |[MuseArt](https://link.zhihu.com/?target=https%3A//www.feishu.cn/invitation/page/add_contact/%3Ftoken%3Ddd8o7895-6809-42b5-9509-fe7d1c33216c)|付费 + 看广告|https://www.feishu.cn/invitation/page/add_contact/?token=dd8o7895-6809-42b5-9509-fe7d1c33216c|
 |大画家Domo                                                                                                                           |-   |https://www.domo.cool/                                                                       |
 |盗梦师                                                                                                                       |有免费次数 + 付费   |微信小程序搜盗梦师                                                                                          |
-|画几个画                                                                                                                      |-   |微信小程序搜盗画几个画                                                                                          |
+|画几个画                                                                                                                      |-   |微信小程序搜画几个画                                                                                          |
+|智能画图                                                                                                                      |免费 + 看广告 |微信小程序搜智能画图                                                                                          |
 
 
 ## 2. 使用教程
