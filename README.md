@@ -1,10 +1,12 @@
-# 数字绘画
+# 数字绘画 ✨
 
-> 记录我使用 AI绘画的过程，帮助更多的人学会 AI画画。
+> 记录我使用 AI 绘画的过程，帮助更多的人学会 AI 画画。
 
-目前有大量的平台推出了 AI 绘画的能力，这里做一个汇总，有更多的欢迎补充呀，也欢迎一起进群交流（文末二维码）
+#### 🌰 持续更新中...
 
-## 可使用绘画的平台
+目前有大量的平台推出了 AI 绘画的能力，这里做一个汇总。有更多的欢迎前来补充，也欢迎进群一起交流探索。（文末有二维码）
+
+## 1. 可使用绘画的平台
 ### 📪 国外
 
 |Name                   | Tags   |URL                                                                                                                       |
@@ -26,59 +28,93 @@
 |[elbo](https://art.elbo.ai/lbo)|-       |https://art.elbo.ai/                                                                                                           |
 
 ### 🚴🏻 国内
-|Name                                                                                                                              |价格  |URL                                                                                          |
+|Name                                                                                                                              | 价格  |URL                                                                                          |
 |----------------------------------------------------------------------------------------------------------------------------------|----|---------------------------------------------------------------------------------------------|
 |[文心大模型](https://wenxin.baidu.com/moduleApi/ernieVilg?uid=1662457087375_978&traceid= )                                                      |暂时免费|https://wenxin.baidu.com/moduleApi/ernieVilg                                                 |
 |文心-一格                                                                                                                             |暂时免费|https://yige.baidu.com/#/                                                                    |
 |6pen                                                                                                                              |部分免费|https://6pen.art/                                                                            |
-|[MuseArt](https://link.zhihu.com/?target=https%3A//www.feishu.cn/invitation/page/add_contact/%3Ftoken%3Ddd8o7895-6809-42b5-9509-fe7d1c33216c)|需要申请|https://www.feishu.cn/invitation/page/add_contact/?token=dd8o7895-6809-42b5-9509-fe7d1c33216c|
+|[MuseArt](https://link.zhihu.com/?target=https%3A//www.feishu.cn/invitation/page/add_contact/%3Ftoken%3Ddd8o7895-6809-42b5-9509-fe7d1c33216c)|付费 + 看广告|https://www.feishu.cn/invitation/page/add_contact/?token=dd8o7895-6809-42b5-9509-fe7d1c33216c|
 |大画家Domo                                                                                                                           |-   |https://www.domo.cool/                                                                       |
-|微信小程序 - 盗梦师                                                                                                                       |-   |盗梦师                                                                                          |
+|盗梦师                                                                                                                       |有免费次数 + 付费   |微信小程序搜盗梦师                                                                                          |
+|画几个画                                                                                                                      |-   |微信小程序搜盗画几个画                                                                                          |
 
-[非公开](https://www.notion.so/a0d4f6230cde4bb78cb5fddf2cd596ae)
 
-[国内外平台](https://www.notion.so/2a24bb25a7954ec29f0bbb211ccaa840)
+## 2. 使用教程
+### Stable Diffusion（推荐）
+[用Colab免费部署自己的AI绘画云平台—— Stable Diffusion
+](https://mp.weixin.qq.com/s/2H1gCoOVBK89dIhEqoTQmA)
 
-[使用教程](https://www.notion.so/82ee94888cf748eba20b5adb64d0bde7)
+[AI数字绘画 stable-diffusion 保姆级教程](https://mp.weixin.qq.com/s/nDnQuZn3hVgrwqWVada2cw)
 
-[自建教程](https://www.notion.so/d2a6f57d5ee048d3b7b84bf331845b69)
+### Disco Diffusion
+[最简单全面本地运行Colab及Disco Diffusion教程](https://www.bilibili.com/read/cv16202697)
 
-[调参教程](https://www.notion.so/f003f8cb134542dd9d637bb5b5addf1f)
+[人工智能绘画工具 Disco Diffusion 入门教程](https://www.zcool.com.cn/article/ZMTM3OTg3Mg==.html)
 
-[相关资料](https://www.notion.so/d2ff4a2b46484260beca68f67a5a420d)
+[一条录制的Disco Diffusion 生成器教程的内容](https://weibo.com/5519581673/LnZuxbAC8?type=repost)
 
+[堪比艺术家！被疯狂安利的 AI 插画神器 Disco Diffusion 有多强？](https://www.uisdc.com/disco-diffusion)
+
+[用AI如何画概念图？](https://www.shangyexinzhi.com/article/4648362.html)
+
+## 3. 自建教程
+### GPU场景推荐
+
+[https://www.autodl.com/createInstance](https://www.autodl.com/createInstance)
+
+[http://gpu.ai-galaxy.cn/store](http://gpu.ai-galaxy.cn/store)
+
+### 显卡选择
+[时代变了，大人：RTX 3090时代，哪款显卡配得上我的炼丹炉？](https://zhuanlan.zhihu.com/p/225507448)
+
+### 自建教程
+[人人都能用的「AI 作画」，如何把 Stable Diffusion 装进电脑？](https://mp.weixin.qq.com/s/jL4m4e-A1oc44Z8PLyvA2A)
+
+[https://github.com/fboulnois/stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker)
+
+[https://github.com/AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
+
+### MAC自建
+
+[Run](https://replicate.com/blog/run-stable-diffusion-on-m1-mac)
+
+[https://github.com/divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+
+## 4. 调参教程
+
+[Disco Diffusion](https://www.notion.so/Disco-Diffusion-d8a78d7a5a8b40238da820687615dee6) 
+
+### SD 关键词参考
+
+[https://arthub.ai/](https://arthub.ai/)
+
+[https://lexica.art/](https://lexica.art/) 
+
+[https://www.krea.ai/?continueFlag=6591d07b3186f4c7e58de1a4bcfaefb0](https://www.krea.ai/?continueFlag=6591d07b3186f4c7e58de1a4bcfaefb0)
+
+[https://promptomania.com/stable-diffusion-prompt-builder/](https://promptomania.com/stable-diffusion-prompt-builder/)
+
+### MJ关键词生成
+
+[https://prompt.noonshot.com/midjourney](https://prompt.noonshot.com/midjourney)
+
+[https://huggingface.co/spaces/doevent/prompt-generator](https://huggingface.co/spaces/doevent/prompt-generator)
+
+[https://midjourney-prompt-helper.netlify.app/](https://midjourney-prompt-helper.netlify.app/)
+
+
+## 5. 新闻资料（周更）
+[新闻资料(周更中)🔥](./新闻资料(周更))
+
+## 6. 其他
 [img2img记录](https://www.notion.so/img2img-f3ef70c4b67c49d1b7a15fca91955eaa)
 
 [AI视频](https://www.notion.so/AI-2b14076b2b1e4ef9b68a68924f716905)
 
-big brother. very beautiful anime, full body, cinematic, unreal engine CGI, artstation, by Makoto Shinkai and Beksinski, cyberpunk
+## 7. 绘画记录
+正在迁移中...
 
-[9-14](https://www.notion.so/6c25884019d34f7b9a16d3c5b23a65cd)
+## 8. 群聊
+**微信群：已满200人无法扫码进入，可加 qiufengblue 拉你入群**
 
-photo of a gorgeous young woman in the style of stefan kostic, realistic, sharp focus, 8 k high definition, insanely detailed, intricate, elegant, art by david cronenberg and stanley lau and artgerm
-
-[9-12](https://www.notion.so/470699eaebad44d7a91bc29ac7b9023e)
-
-((a point coloration cat by the lakeside)), big face, small ears, play in the snow, sharp focus, illustration, highly detailed, concept art, matte, anime, trending on artstation
-
-((a balinese cat)),big face, small ears, play in the snow, sharp focus, illustration, highly detailed, concept art, matte, anime, trending on artstation
-
-[9-12](https://www.notion.so/199f2ac50b1e492f9763a28ec9b7f741)
-
-anime art full body portrait character concept art, anime key visual of elegant young female, platinum blonde straight bangs and large eyes, finely detailed perfect face delicate features directed gaze, laying down in the grass at night in a valley, trending on pixiv fanbox, studio ghibli, extremely high quality artwork
-
-[9-12](https://www.notion.so/138525bc0ce4465b93acb6f0d65aea8a)
-
-[9-3绘画记录-SD](https://www.notion.so/f2797f6bc6454e5384311d52b3d4720c)
-
-参数：sea of roses, cyberpunk, fantasy, surreal, cyberpunk
-
-[8-27绘画记录-SD](https://www.notion.so/3ca816ced3484491be29dee2e16b8107)
-
-[8-25绘画记录](https://www.notion.so/5c61961ef688454fbe061b51dd7a2b1c)
-
-二维码过期可加 qiufengblue
-
-![Untitled](%E6%95%B0%E5%AD%97%E7%BB%98%E7%94%BB%2006fab45ec290447ba41c3fd0f6e78fac/Untitled.png)
-
-TG群：[https://t.me/aigchobby](https://t.me/aigchobby)
+**TG群：[https://t.me/aigchobby](https://t.me/aigchobby)**
