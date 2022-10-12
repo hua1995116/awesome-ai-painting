@@ -44,6 +44,7 @@
 |画几个画                                                                                                                      |-   |微信小程序搜画几个画                                                                                          |
 |智能画图                                                                                                                      |免费 + 看广告 |微信小程序搜智能画图                                                                                          |
 |飞链云AI绘画版图                                                                                                                      |免费 |https://ai.feilianyun.cn/ |
+|[Freehand意绘](https://freehand.yunwooo.com/)                                       |免费                                        |https://freehand.yunwooo.com/|
 
 
 ## 2. 使用教程
