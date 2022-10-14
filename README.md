@@ -31,6 +31,10 @@
 |nightcafe|-       |https://nightcafe.studio/                                                                                                           |
 |craiyon|-       |https://www.craiyon.com/                                                                                                           |
 |novelai|-       |https://novelai.net/                                                                                                           |
+|novelai 免费版|免费 |https://github.com/JingShing/novelai-colab-ver |
+|Sd-Outpainting|免费 |https://github.com/lkwq007/stablediffusion-infinity |
+
+
 
 ### 🚴🏻 国内
 |Name                                                                                                                              | 价格  |URL                                                                                          |
@@ -94,9 +98,17 @@
 
 ## 4. 调参教程
 
+### NovelAI专属
+
+http://wolfchen.top/tag/
+
+https://aitag.top/  
+
+### DD关键词
+
 [Disco Diffusion](https://www.notion.so/Disco-Diffusion-d8a78d7a5a8b40238da820687615dee6) 
 
-### SD 关键词参考
+### SD 关键词
 
 [https://arthub.ai/](https://arthub.ai/)
 
@@ -106,7 +118,7 @@
 
 [https://promptomania.com/stable-diffusion-prompt-builder/](https://promptomania.com/stable-diffusion-prompt-builder/)
 
-### MJ关键词生成
+### MJ关键词
 
 [https://prompt.noonshot.com/midjourney](https://prompt.noonshot.com/midjourney)
 
