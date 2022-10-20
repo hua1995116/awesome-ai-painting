@@ -175,6 +175,8 @@ https://tags.novelai.dev/
 
 [Koishi.js 聊天机器人 NovelAI 插件](https://bot.novelai.dev/)
 
+[将 pt 格式的训练模型文件转换为 png 格式](https://colab.research.google.com/gist/wfjsw/2b2a26349bef1ce891f6ab4d4fb3030a/convert-pt-embedding-to-png.ipynb)
+
 ## 7. 绘画记录
 正在迁移中...
 
