@@ -105,6 +105,8 @@ http://wolfchen.top/tag/
 
 https://aitag.top/  
 
+https://tags.novelai.dev/
+
 ### DD关键词
 
 [Disco Diffusion](https://www.notion.so/Disco-Diffusion-d8a78d7a5a8b40238da820687615dee6) 
@@ -170,6 +172,8 @@ https://aitag.top/
 [img2img记录](https://www.notion.so/img2img-f3ef70c4b67c49d1b7a15fca91955eaa)
 
 [AI视频](https://www.notion.so/AI-2b14076b2b1e4ef9b68a68924f716905)
+
+[Koishi.js 聊天机器人 NovelAI 插件](https://bot.novelai.dev/)
 
 ## 7. 绘画记录
 正在迁移中...
