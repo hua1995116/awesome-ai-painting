@@ -34,6 +34,7 @@
 |novelai 免费版|免费 |https://github.com/JingShing/novelai-colab-ver |
 |Sd-Outpainting|免费 |https://github.com/lkwq007/stablediffusion-infinity |
 |TyPaint|免费 |https://apps.apple.com/us/app/typaint-you-type-ai-paints/id1624024392 |
+|PicSo|新用户每天免费10次 |https://picso.ai/ |
 
 
 
