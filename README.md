@@ -108,6 +108,10 @@ https://aitag.top/
 
 https://tags.novelai.dev/
 
+元素法典——Novel AI 元素魔法全收录: https://docs.qq.com/doc/DWHl3am5Zb05QbGVs
+
+NovelAI 法术解析: https://spell.novelai.dev/
+
 ### DD关键词
 
 [Disco Diffusion](https://www.notion.so/Disco-Diffusion-d8a78d7a5a8b40238da820687615dee6) 
