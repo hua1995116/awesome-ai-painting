@@ -59,6 +59,7 @@
 |即时AI                                       |免费                                        |https://js.design/pluginDetail?id=6322a4ab0eededcff6ba451a|
 |意见AI绘画                                                                                  |有免费次数 + 付费                  |微信小程序搜意见AI绘画|
 |PAI |免费 |https://artpai.xyz/|
+|爱作画 | 有免费次数 + 付费 |https://aizuohua.com/|
 
 
 
