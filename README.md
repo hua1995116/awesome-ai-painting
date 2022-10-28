@@ -60,6 +60,7 @@
 |意见AI绘画                                                                                  |有免费次数 + 付费                  |微信小程序搜意见AI绘画|
 |PAI |免费 |https://artpai.xyz/|
 |爱作画 | 有免费次数 + 付费 |https://aizuohua.com/|
+|皮卡智能AI | 免费 |https://www.picup.shop/text2image.html#/ |
 
 
 
