@@ -162,9 +162,11 @@ NovelAI 法术解析: https://spell.novelai.dev/
 ### 法术解析
 
 https://spell.novelai.dev/
+
 Deep Danbooru：
 http://dev.kanotype.net:8003/deepdanbooru/
 
+http://www.prompttool.com/
 
 
 **归档请查看：[🎨 调参教程](https://www.notion.so/qiufeng/f003f8cb134542dd9d637bb5b5addf1f)**
