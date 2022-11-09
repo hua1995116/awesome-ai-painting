@@ -261,6 +261,10 @@ http://www.prompttool.com/
 正在迁移中...
 
 ## 8. 群聊
-**微信群：已满200人无法扫码进入，可加 qiufengblue 拉你入群**
+**微信群：已开2群可扫码，满群可加 qiufengblue 拉你入群**
+
+<img src="https://user-images.githubusercontent.com/12070073/200860588-d834b837-8942-4396-816f-3f680690dd22.jpg" width="300">
+
+
 
 **TG群：[https://t.me/aigchobby](https://t.me/aigchobby)**
