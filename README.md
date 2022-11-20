@@ -263,8 +263,7 @@ http://www.prompttool.com/
 ## 8. 群聊
 **微信群：已开2群可扫码，满群可加 qiufengblue 拉你入群**
 
-<img src="https://user-images.githubusercontent.com/12070073/200860588-d834b837-8942-4396-816f-3f680690dd22.jpg" width="300">
-
+<img src="https://user-images.githubusercontent.com/12070073/202897214-4c115d80-f025-4bf2-900a-52a524494770.png" width="300">
 
 
 **TG群：[https://t.me/aigchobby](https://t.me/aigchobby)**
