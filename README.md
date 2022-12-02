@@ -53,7 +53,7 @@
 |大画家Domo                                                                                                                           |-   |https://www.domo.cool/                                                                       |
 |盗梦师                                                                                                                       |有免费次数 + 付费   |微信小程序搜盗梦师                                                                                          |
 |画几个画                                                                                                                      |-   |微信小程序搜画几个画                                                                                          |
-|智能画图                                                                                                                      |免费 + 看广告 |微信小程序搜智能画图                                                                                          |
+|Niko绘图                                                                                                                      |免费 + 看广告 |微信小程序搜Niko绘图                                                                                          |
 |飞链云AI绘画版图                                                                                                                      |免费 |https://ai.feilianyun.cn/ |
 |[Freehand意绘](https://freehand.yunwooo.com/)                                       |免费                                        |https://freehand.yunwooo.com/|
 |即时AI                                       |免费                                        |https://js.design/pluginDetail?id=6322a4ab0eededcff6ba451a|
