@@ -2,6 +2,23 @@
 
 > 记录我使用 AI 绘画的过程，帮助更多的人学会 AI 画画。
 
+**12.10 更新**
+
+沉寂了一端时间没更新，是的，没错，因为也去入股了一波 AI绘画，之后会继续更新相关的资源。
+
+**MewXAI 小程序**，全网独有的古风模型！！！下面贴一些效果图~
+
+<img src="https://user-images.githubusercontent.com/12070073/206862650-c24b09ff-7232-44d7-87ae-c8013a4c6d63.png" width="600">
+
+<img src="https://user-images.githubusercontent.com/12070073/206862645-26c4c4b9-031b-4442-9ced-a7183f2faf44.png" width="600">
+
+<img src="https://user-images.githubusercontent.com/12070073/206862655-411d6a51-c278-4ac6-8017-a70eb2d99071.png" width="600">
+
+<img src="https://user-images.githubusercontent.com/12070073/206862659-cba54c95-7f1f-45ba-9c45-de6a759481cf.png" width="600">
+
+<img src="https://user-images.githubusercontent.com/12070073/206862661-4d658db2-583a-41c1-bb37-057bb2e61c3b.png" width="600">
+
+
 #### 🌰 持续更新中...
 
 目前有大量的平台推出了 AI 绘画的能力，这里做一个汇总。有更多的欢迎前来补充（可直接提交 pr），也欢迎进群一起交流探索。（文末有二维码）
@@ -54,7 +71,7 @@
 |大画家Domo                                                                                                                           |-   |https://www.domo.cool/                                                                       |
 |盗梦师                                                                                                                       |有免费次数 + 付费   |微信小程序搜盗梦师                                                                                          |
 |画几个画                                                                                                                      |-   |微信小程序搜画几个画                                                                                          |
-|智能画图                                                                                                                      |免费 + 看广告 |微信小程序搜智能画图                                                                                          |
+|Niko绘图                                                                                                                      |免费 + 看广告 |微信小程序搜Niko绘图                                                                                          |
 |飞链云AI绘画版图                                                                                                                      |免费 |https://ai.feilianyun.cn/ |
 |[Freehand意绘](https://freehand.yunwooo.com/)                                       |免费                                        |https://freehand.yunwooo.com/|
 |即时AI                                       |免费                                        |https://js.design/pluginDetail?id=6322a4ab0eededcff6ba451a|
@@ -262,6 +279,9 @@ http://www.prompttool.com/
 正在迁移中...
 
 ## 8. 群聊
-**微信群：已满200人无法扫码进入，可加 qiufengblue 拉你入群**
+**微信群：已开2群可扫码，满群可加 qiufengblue 拉你入群**
+
+<img src="https://user-images.githubusercontent.com/12070073/202897214-4c115d80-f025-4bf2-900a-52a524494770.png" width="300">
+
 
 **TG群：[https://t.me/aigchobby](https://t.me/aigchobby)**
