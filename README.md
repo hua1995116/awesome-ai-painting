@@ -8,17 +8,6 @@
 
 **MewXAI 小程序**，全网独有的古风模型！！！下面贴一些效果图~
 
-<img src="https://user-images.githubusercontent.com/12070073/206862650-c24b09ff-7232-44d7-87ae-c8013a4c6d63.png" width="600">
-
-<img src="https://user-images.githubusercontent.com/12070073/206862645-26c4c4b9-031b-4442-9ced-a7183f2faf44.png" width="600">
-
-<img src="https://user-images.githubusercontent.com/12070073/206862655-411d6a51-c278-4ac6-8017-a70eb2d99071.png" width="600">
-
-<img src="https://user-images.githubusercontent.com/12070073/206862659-cba54c95-7f1f-45ba-9c45-de6a759481cf.png" width="600">
-
-<img src="https://user-images.githubusercontent.com/12070073/206862661-4d658db2-583a-41c1-bb37-057bb2e61c3b.png" width="600">
-
-
 #### 🌰 持续更新中...
 
 目前有大量的平台推出了 AI 绘画的能力，这里做一个汇总。有更多的欢迎前来补充（可直接提交 pr），也欢迎进群一起交流探索。（文末有二维码）
