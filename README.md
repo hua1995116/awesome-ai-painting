@@ -8,6 +8,13 @@
 
 **MewXAI 小程序**，全网独有的古风模型！！！下面贴一些效果图~
 
+![](./%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/mewx.jpg)
+ 
+以及真人模型、厚涂模型、2.5D、二次元等诸多模型～
+![](./%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/mewx2.jpg)
+
+扫码进入可得50点数免费画图，立即体验👇：
+![](./%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/mewx3.png)
 #### 🌰 持续更新中...
 
 目前有大量的平台推出了 AI 绘画的能力，这里做一个汇总。有更多的欢迎前来补充（可直接提交 pr），也欢迎进群一起交流探索。（文末有二维码）
@@ -254,9 +261,8 @@ https://mp.weixin.qq.com/s/IdK0XLitqfu0iPGqHnNQzw
 正在迁移中...
 
 ## 8. 群聊
-**微信群：已开2群可扫码，满群可加 qiufengblue 拉你入群**
+**微信群：1群2群人已满，已开3群可扫码，满群可加 qiufengblue 拉你入群**
 
-<img src="https://user-images.githubusercontent.com/12070073/202897214-4c115d80-f025-4bf2-900a-52a524494770.png" width="300">
-
+![](./%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/wechat.jpg)
 
 **TG群：[https://t.me/aigchobby](https://t.me/aigchobby)**
