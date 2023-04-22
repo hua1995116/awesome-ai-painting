@@ -6,7 +6,7 @@
 
 沉寂了一端时间没更新，是的，没错，因为也去入股了一波 AI绘画，之后会继续更新相关的资源。
 
-**MewXAI 小程序**，全网独有的古风模型！！！下面贴一些效果图~
+**MewXAI 小程序**，全网独有的古风模型！也加上了ControlNet、融合Lora等高级玩法，下面贴一些效果图~
 
 ![](./%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/mewx.jpg)
  
@@ -259,12 +259,9 @@ https://mp.weixin.qq.com/s/IdK0XLitqfu0iPGqHnNQzw
 
 [将 pt 格式的训练模型文件转换为 png 格式](https://colab.research.google.com/gist/wfjsw/2b2a26349bef1ce891f6ab4d4fb3030a/convert-pt-embedding-to-png.ipynb)
 
-## 7. 绘画记录
-正在迁移中...
-
 ## 8. 群聊
-**微信群：1群2群人已满，已开3群可扫码，满群可加 qiufengblue 拉你入群**
+**微信群：1群2群3群人已满，已开4群可扫码，满群可加 qiufengblue 拉你入群**
 
-<img width="300" src="./%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/wechat.jpg" />
+<img width="300" src="./%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/wechat.jpeg" />
 
 **TG群：[https://t.me/aigchobby](https://t.me/aigchobby)**
