@@ -4,7 +4,7 @@
 
 **23.6.25 更新**
 
-最近又花了一周时间，捣腾了一个二维码生成器：https://www.qrcode1s.com， 效果如下：（原理是利用了以下教程中的基础方法 + 一定程度的改进 + MewXAI模型拥有了更好的融合效果）
+最近又花了一周时间，捣腾了一个二维码生成器：https://www.qrcode1s.com 效果如下：（原理是利用了以下教程中的基础方法 + 一定程度的改进 + MewXAI模型拥有了更好的融合效果）
 
 <p>
  <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/5843c8e2-66a3-4e99-89b4-b3f06298a0dc" width="300" />
