@@ -2,6 +2,25 @@
 
 > 记录我使用 AI 绘画的过程，帮助更多的人学会 AI 画画。
 
+**23.6.25 更新**
+
+最近又花了一周时间，捣腾了一个二维码生成器：https://www.qrcode1s.com， 效果如下：（原理是利用了以下教程中的基础方法 + 一定程度的改进 + MewXAI模型拥有了更好的融合效果）
+
+<p>
+ <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/5843c8e2-66a3-4e99-89b4-b3f06298a0dc" width="300" />
+ <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/c3581562-8a55-444b-90d1-cc2e10ecdcb8" width="300" />
+</p>
+
+<img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/0d109bbf-04f7-4d59-8dce-27b8ac70471e" width="600" />
+
+
+**AI二维码生成教程 (推荐)**
+
+https://www.bilibili.com/video/BV1Jm4y1v76C
+
+https://www.youtube.com/watch?v=HOY5J9UT_lY
+
+
 **12.10 更新**
 
 沉寂了一端时间没更新，是的，没错，因为也去入股了一波 AI绘画，之后会继续更新相关的资源。
