@@ -178,6 +178,8 @@ NovelAI 法术解析: https://spell.novelai.dev/
 
 [https://midjourney-prompt-helper.netlify.app/](https://midjourney-prompt-helper.netlify.app/)
 
+[https://promptsalsa.com/midjourney-prompt-generator/](https://promptsalsa.com/midjourney-prompt-generator/)
+
 ### 法术解析
 
 https://spell.novelai.dev/
