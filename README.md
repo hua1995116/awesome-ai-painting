@@ -99,6 +99,8 @@ https://www.youtube.com/watch?v=HOY5J9UT_lY
 |皮卡智能AI | 免费 |https://www.picup.shop/text2image.html#/ |
 |云景AI绘图 | 免费 |https://yunjing.gallery |
 |100prompt | 免费 | http://100prompt.com |
+|TryYourAI | 部分免费 | https://tryyourai.com |
+|WaterWheel | 有免费次数 + 付费 | https://waterwheel.network |
 
 ### 模型下载
 
