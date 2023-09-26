@@ -16,7 +16,7 @@
 
 
 **23.7.13 更新**
-最近又进行了一波优化，这次带来的是的无码眼版本，效果炸裂，以下均可微信长按识别。 产品地址： [MewXAI星月熊](https://qr.mewx.art)
+最近又进行了一波优化，这次带来的是的无码眼版本，效果炸裂，以下均可微信长按识别。
 
 <p>
  <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/fe7bfeb9-47b8-4d51-99bb-b0d3edadfa09" width="100" />
@@ -24,8 +24,55 @@
  <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/eb405b42-876c-4704-bf19-f0ee7dca8382" width="100" />
  <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/ccb683f7-06a5-437b-8e35-70fd961279fb" width="100" />
 </p>
-
 [探索更多](./我的产品之路/README.md)
+
+## 0.近期资讯
+
+
+
+[4.最近超级火的光影文字来咯！一键生成，让你一看就会！](https://mp.weixin.qq.com/s/qGxmQxRNlOxBEJG7LkxPcg)
+
+概览
+```
+立即体验：https://qr.mewx.art（稍后星月熊小程序也会同步上线）
+
+最近在某书、某音里，你肯定刷到这种超火的光影文字艺术作品，一发出去立刻能破万点赞。这种效果极具创意，将光影文字完美巧妙的融合进 AI 绘画里，收获了无数的喜欢，许多人甚至高价定制。
+```
+
+<img width="600" alt="image" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/63efbd41-a64e-41a4-805d-ca384d11dda3">
+
+
+
+[3.AI这样把NB写在脸上，它在玩一种很新的艺术](https://www.qbitai.com/2023/07/69159.html)
+
+概览：
+```
+都说AI绘画来势汹汹，但论创意，还是人类玩得花。
+
+不信来看看这张乍一看平平无奇，却在网上疯传的AI生成美女图片：
+
+AI这样把NB写在脸上，它在玩一种很新的艺术
+
+```
+<img width="600" alt="image" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/18cb2212-62af-4953-91f2-52c8107aa899">
+
+
+
+[2.InvokeAI 3.0 Release](https://www.youtube.com/watch?v=A7uipq4lhrk)
+
+概览：
+
+<img width="600" alt="image" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/82208e00-955a-4d1c-a5db-4a6610a1a6f4">
+
+[1.丝滑的AI动画工作流](https://www.reddit.com/r/StableDiffusion/comments/155lgrm/you_guys_seem_to_dont_like_anime_dancing_videos/)
+
+概览：
+
+[](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/0e86c712-997d-4036-8167-14183d13aeb4)
+
+
+
+
 
 ## 1. 可使用绘画的平台
 
