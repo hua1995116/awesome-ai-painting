@@ -2,63 +2,33 @@
 
 > 记录我使用 AI 绘画的过程，帮助更多的人学会 AI 画画。
 
+
+
+## 我的AI产品之路
+
+**23.7.22 更新**
+更新了一波长图二维码一键生成和光影文字  产品地址： [MewXAI星月熊](https://qr.mewx.art)
+
+<p>
+ <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/63efbd41-a64e-41a4-805d-ca384d11dda3" height="200" />
+ <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/4cc237bf-da2a-4111-811f-5342e880a9b9" height="200" />
+</p>
+
+
 **23.7.13 更新**
 最近又进行了一波优化，这次带来的是的无码眼版本，效果炸裂，以下均可微信长按识别。 产品地址： [MewXAI星月熊](https://qr.mewx.art)
 
 <p>
- <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/fe7bfeb9-47b8-4d51-99bb-b0d3edadfa09" width="300" />
- <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/19fb752c-3690-4a08-a4bf-0594db158ab1" width="300" />
+ <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/fe7bfeb9-47b8-4d51-99bb-b0d3edadfa09" width="100" />
+ <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/19fb752c-3690-4a08-a4bf-0594db158ab1" width="100" />
+ <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/eb405b42-876c-4704-bf19-f0ee7dca8382" width="100" />
+ <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/ccb683f7-06a5-437b-8e35-70fd961279fb" width="100" />
 </p>
 
-<p>
- <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/eb405b42-876c-4704-bf19-f0ee7dca8382" width="300" />
- <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/ccb683f7-06a5-437b-8e35-70fd961279fb" width="300" />
-</p>
-
-<p>
- <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/a0c6efe6-28fe-4c47-ac39-cac96482b6c3" width="300" />
- <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/707e3f86-0cbf-41c9-a276-680ad2f56fc7" width="300" />
-</p>
-
-**23.6.25 更新**
-
-最近又花了一周时间，捣腾了一个二维码生成器：https://www.qrcode1s.com 效果如下：（原理是利用了以下教程中的基础方法 + 一定程度的改进 + MewXAI模型拥有了更好的融合效果）
-
-<p>
- <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/5843c8e2-66a3-4e99-89b4-b3f06298a0dc" width="300" />
- <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/c3581562-8a55-444b-90d1-cc2e10ecdcb8" width="300" />
-</p>
-
-<img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/0d109bbf-04f7-4d59-8dce-27b8ac70471e" width="600" />
-
-
-**AI二维码生成教程 (推荐)**
-
-https://www.bilibili.com/video/BV1Jm4y1v76C
-
-https://www.youtube.com/watch?v=HOY5J9UT_lY
-
-
-**12.10 更新**
-
-沉寂了一端时间没更新，是的，没错，因为也去入股了一波 AI绘画，之后会继续更新相关的资源。
-
-**MewXAI 小程序**，在线地址： https://www.mewxai.cn  全网独有的古风模型！也加上了ControlNet、融合Lora等高级玩法，下面贴一些效果图~
-
-![](./%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/mewx.jpg)
- 
-以及真人模型、厚涂模型、2.5D、二次元等诸多模型～
-![](./%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/mewx2.jpg)
-
-扫码进入可得**50点数免费画图**，**立即体验**👇：<br/>
-
-![](./%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/mewx4.jpg)
-
-#### 🌰 持续更新中...
-
-目前有大量的平台推出了 AI 绘画的能力，这里做一个汇总。有更多的欢迎前来补充（可直接提交 pr），也欢迎进群一起交流探索。（文末有二维码）
+[探索更多](./我的产品之路/README.md)
 
 ## 1. 可使用绘画的平台
+
 ### 📪 国外
 
 |Name                   | Tags   |URL                                                                                                                       |
@@ -94,16 +64,15 @@ https://www.youtube.com/watch?v=HOY5J9UT_lY
 
 
 
-
-
 ### 🚴🏻 国内
+
+1.泛类AI绘画产品
+
 |Name                                                      | 价格  |URL                                                                                          |
 |--------------------------------------------------------------------|----|---------------------------------------------------------------------------------------------|
-|[文心大模型](https://wenxin.baidu.com/moduleApi/ernieVilg?uid=1662457087375_978&traceid= )                                                      |暂时免费|https://wenxin.baidu.com/moduleApi/ernieVilg                                                 |
 |文心-一格                                                                                                                             |暂时免费|https://yige.baidu.com/#/                                                                    |
 |6pen                                                         |部分免费|https://6pen.art/                                                         |
-|MewxAI人工智能                                                        | 免费 | 微信小程序                                            |
-|[MuseArt](https://link.zhihu.com/?target=https%3A//www.feishu.cn/invitation/page/add_contact/%3Ftoken%3Ddd8o7895-6809-42b5-9509-fe7d1c33216c)|付费 + 看广告|微信小程序搜 MuseArt |
+|MewxAI人工智能                                                        | 免费 | 微信小程序 / https://mewx.art                                           |
 |大画家Domo                                                                                                                           |-   |https://www.domo.cool/                                                                       |
 |盗梦师                                                                                                                       |有免费次数 + 付费   |微信小程序搜盗梦师                                                                                          |
 |画几个画                                                                                                                      |-   |微信小程序搜画几个画                                                                                          |
@@ -120,28 +89,63 @@ https://www.youtube.com/watch?v=HOY5J9UT_lY
 |C站模型直接使用：TryYourAI | 部分免费 | https://tryyourai.com |
 |创作+赚钱：WaterWheel | 有免费次数 + 付费 | https://waterwheel.network |
 
-### 模型下载
+2.垂类绘画产品
 
-novelAI
-https://huggingface.co/acheong08/secretAI/resolve/main/stableckpt/animefull-final-pruned/model.ckpt
-stable_diffusion
+| Name     | 价格          | URL                 | 使用场景 |
+| -------- | ------------- | ------------------- | -------- |
+| 妙鸭相机 | 有免费/有付费 | 小程序搜妙鸭相机    | AI写真   |
+| 星月熊   | 有免费/有付费 | https://qr.mewx.art | AI二维码 |
+| WeShop   | 有免费/有付费 | https://weshop.com/ | AI模特   |
+
+
+
+### 模型合集
+
+
+#### 1.聚合网站
+
+[civitai](https://civitai.com/)
+
+[liblib](https://www.liblib.ai/)
+
+[tensor](https://tensor.art/)
+
+
+#### 2.基础模型
+
+SDXL
+
+https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
+
+SD 2.1
+
+https://huggingface.co/stabilityai/stable-diffusion-2-1-base
+
+SD 1.4
+
 https://huggingface.co/CompVis/stable-diffusion-v-1-4-original/resolve/main/sd-v1-4.ckpt
-waifu_diffusion
-https://huggingface.co/hakurei/waifu-diffusion-v1-3/resolve/main/wd-v1-3-float32.ckpt
-sd-v1-5
+
+SD 1.5
+
 https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt
 
+
+novelAI
+
+https://huggingface.co/acheong08/secretAI/resolve/main/stableckpt/animefull-final-pruned/model.ckpt
 
 
 ## 2. 使用教程
 
-### Stable Diffusion（推荐）
-[用Colab免费部署自己的AI绘画云平台—— Stable Diffusion
-](https://mp.weixin.qq.com/s/2H1gCoOVBK89dIhEqoTQmA)
+#### Stable Diffusion（推荐）
+
+[秋叶启动器](https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.999.0.0)
+
+[用Colab免费部署自己的AI绘画云平台—— Stable Diffusion](https://mp.weixin.qq.com/s/2H1gCoOVBK89dIhEqoTQmA)
 
 [AI数字绘画 stable-diffusion 保姆级教程](https://mp.weixin.qq.com/s/nDnQuZn3hVgrwqWVada2cw)
 
-### Disco Diffusion
+#### Disco Diffusion ( 废弃 )
 [最简单全面本地运行Colab及Disco Diffusion教程](https://www.bilibili.com/read/cv16202697)
 
 [人工智能绘画工具 Disco Diffusion 入门教程](https://www.zcool.com.cn/article/ZMTM3OTg3Mg==.html)
@@ -152,14 +156,23 @@ https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-e
 
 [用AI如何画概念图？](https://www.shangyexinzhi.com/article/4648362.html)
 
-**归档请查看：[🩹 使用教程](https://www.notion.so/qiufeng/82ee94888cf748eba20b5adb64d0bde7)**
+#### webui必备插件合集
+
+[webui必备20+插件](./webui必备插件/README.md)
+
+
 
 ## 3. 自建教程
-### GPU场景推荐
+### GPU厂商 - 国内 （亲民价格）
 
-[https://www.autodl.com/createInstance](https://www.autodl.com/createInstance)
-
-[http://gpu.ai-galaxy.cn/store](http://gpu.ai-galaxy.cn/store)
+| 厂商   | 地址                                               | 价格                            |
+| ------ | -------------------------------------------------- | ------------------------------- |
+| autodl | https://www.autodl.com                             | 大约1元左右/h，根据不同显卡定价 |
+| 智星云 | http://gpu.ai-galaxy.cn/                           | 大约1元左右/h，根据不同显卡定价 |
+| 恒源云 | https://gpushare.com/                              | 大约1元左右/h，根据不同显卡定价 |
+| 腾讯云 | https://cloud.tencent.com/act/pro/gpu-study        | 最低 60元/0.5个月               |
+| 仙宫云 | https://www.xiangongyun.com/                       | 大约1元左右/h，根据不同显卡定价 |
+| 阿里云 | https://www.aliyun.com/activity/bigdata/pai/studio | 免费 A10/T4/G6 1个月            |
 
 ### 显卡选择
 [时代变了，大人：RTX 3090时代，哪款显卡配得上我的炼丹炉？](https://zhuanlan.zhihu.com/p/225507448)
@@ -176,8 +189,6 @@ https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-e
 [Run](https://replicate.com/blog/run-stable-diffusion-on-m1-mac)
 
 [https://github.com/divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
-
-**归档请查看：[🕙 自建教程](https://www.notion.so/qiufeng/d2a6f57d5ee048d3b7b84bf331845b69)**
 
 ## 4. 调参教程
 
@@ -229,81 +240,9 @@ http://dev.kanotype.net:8003/deepdanbooru/
 http://www.prompttool.com/
 
 
-**归档请查看：[🎨 调参教程](https://www.notion.so/qiufeng/f003f8cb134542dd9d637bb5b5addf1f)**
 
+## 5. 交流群
+**微信群：已满群可加 qiufengblue**
 
+**QQ群: 713773093**
 
-## 5. 新闻资料（周更）
-
-2023.1.1 - 2023.1.7
-### Windows GUI 工具
-https://nmkd.itch.io/t2i-gui
-![](./新闻资料/images/GUI.png)
-
-### 绝对纯净的二次元生成模型
-https://huggingface.co/aipicasso/cool-japan-diffusion-2-1-0-beta
-![](./新闻资料/images/cool.jpeg)
-
-### 新的高质量模型
-https://huggingface.co/22h/vintedois-diffusion-v0-1
-![](./新闻资料/images/new.png)
-
-### Maximum Diffusion
-同时运行12个模型，进行对比
-
-https://huggingface.co/spaces/Omnibus/maximum_diffusion
-![](./新闻资料/images/maximum.jpeg)
-
-### 一张图进行训练
-使用 SinDDM，可以从单个自然图像训练生成模型，然后从给定的图像生成随机样本
-
-https://github.com/fallenshock/SinDDM
-![](./新闻资料/images/afefde0a-2b0f-4fea-89b9-8bb5d63fd6be.png)
-
-### 腾讯领衔 TextTo3D
-目前还没有代码
-
-https://bluestyle97.github.io/dream3d/
-![](./新闻资料/images/dc66e5fa-acd6-431d-8994-40837038d367.gif)
-
-### iOS APP 直接跑 Stable Diffusion 2.0
-https://github.com/ynagatomo/ImgGenSD2
-![](./新闻资料/images/output.png)
-
-### 支持9种语言的多语言图像到文本模型
-https://huggingface.co/spaces/BAAI/dreambooth-altdiffusion
-![](./新闻资料/images/d229577c-0aa0-4022-9d00-ef148dc6908e.png)
-
-### 新的训练方式 custom-diffusion
-类似 dreambooth
-
-https://github.com/adobe-research/custom-diffusion
-![](./新闻资料/images/cd3cebe3-7d1f-42a3-b9ce-bc3b51d0bdf5.png)
-
-### 碎片感的模型
-https://huggingface.co/Stkzzzz222/fragments_V2
-![](./新闻资料/images/70d5835c-ef9c-4e36-802c-7021f2e3e7a0.png)
-
-
-### 降低训练成本框架 Colossal-AI
-https://mp.weixin.qq.com/s/IdK0XLitqfu0iPGqHnNQzw
-![](./新闻资料/images/ae0aa0d7-8222-412c-a1fb-256e7f95aa73.jpeg)
-![](./新闻资料/images/2b041af3-2f65-4b27-b329-2fcf74b11381.jpeg)
-
-**更多汇总请查看 👉  [新闻资料](https://github.com/hua1995116/awesome-ai-painting/tree/master/%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99)**
-
-## 6. 其他
-[img2img记录](https://www.notion.so/img2img-f3ef70c4b67c49d1b7a15fca91955eaa)
-
-[AI视频](https://www.notion.so/AI-2b14076b2b1e4ef9b68a68924f716905)
-
-[Koishi.js 聊天机器人 NovelAI 插件](https://bot.novelai.dev/)
-
-[将 pt 格式的训练模型文件转换为 png 格式](https://colab.research.google.com/gist/wfjsw/2b2a26349bef1ce891f6ab4d4fb3030a/convert-pt-embedding-to-png.ipynb)
-
-## 8. 群聊
-**微信群：1群2群3群人已满，已开4群可扫码，满群可加 qiufengblue 拉你入群**
-
-<img width="300" src="./%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/wechat.jpeg" />
-
-**TG群：[https://t.me/aigchobby](https://t.me/aigchobby)**
