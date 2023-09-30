@@ -2,6 +2,10 @@
 
 webui的插件非常繁多，为了避免过多无用的插件眼花缭乱同时也要找寻一些精品插件，这里整理出一些常用的、必备的一些插件。
 
+prompt合集
+
+[prompt](https://github.com/Physton/sd-webui-prompt-all-in-one)
+
 翻译插件
 
 [sd-webui-bilingual-localization](https://github.com/journey-ad/sd-webui-bilingual-localization)
