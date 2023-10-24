@@ -28,6 +28,12 @@
 
 ## 0.近期资讯
 
+[让 Stable Diffusion 提高图片质量的新方案 —— FreeU](https://mp.weixin.qq.com/s/aHlPBxA3LybRhYPXsYzzJg)
+
+![image](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/714ec305-8424-4309-941b-b421e95d20d5)
+
+![image](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/36b426d7-e906-46d1-a8ff-4c0b3fe69f32)
+
 
 
 [4.最近超级火的光影文字来咯！一键生成，让你一看就会！](https://mp.weixin.qq.com/s/qGxmQxRNlOxBEJG7LkxPcg)
