@@ -149,6 +149,7 @@ AI这样把NB写在脸上，它在玩一种很新的艺术
 | 妙鸭相机 | 有免费/有付费 | 小程序搜妙鸭相机    | AI写真   |
 | 星月熊   | 有免费/有付费 | https://qr.mewx.art | AI二维码 |
 | WeShop   | 有免费/有付费 | https://weshop.com/ | AI模特   |
+| 彩鱼相机 | 有免费/有付费 | https://pixpi.art/  | AI形象   |
 
 
 
