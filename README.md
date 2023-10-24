@@ -2,7 +2,9 @@
 
 > 记录我使用 AI 绘画的过程，帮助更多的人学会 AI 画画。
 
+## AnimateDiff
 
+近日新增 [AnimateDiff教程](./animatediff/README.md)
 
 ## 我的AI产品之路
 
