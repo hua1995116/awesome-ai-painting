@@ -42,14 +42,14 @@ https://www.youtube.com/watch?v=HOY5J9UT_lY
 
 **MewXAI 小程序**，在线地址： https://www.mewxai.cn  全网独有的古风模型！也加上了ControlNet、融合Lora等高级玩法，下面贴一些效果图~
 
-![](./%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/mewx.jpg)
+![](../%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/mewx.jpg)
  
 以及真人模型、厚涂模型、2.5D、二次元等诸多模型～
-![](./%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/mewx2.jpg)
+![](../%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/mewx2.jpg)
 
-扫码进入可得**50点数免费画图**，**立即体验**👇：<br/>
+扫码进入可得**30点数免费画图**，**立即体验**👇：<br/>
 
-![](./%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/mewx4.jpg)
+![](../%E6%96%B0%E9%97%BB%E8%B5%84%E6%96%99/images/mewx4.jpg)
 
 #### 🌰 持续更新中...
 
