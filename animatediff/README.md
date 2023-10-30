@@ -141,17 +141,37 @@ https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
 https://twitter.com/FinanceYF5/status/1709022312824226047
 
+
+https://github.com/hua1995116/awesome-ai-painting/assets/12070073/ea4e60ca-0fa8-449b-9a33-549a1fb1b665
+
+
 https://twitter.com/slimesunday/status/1709326883626615095
 
-https://huggingface.co/viddle/viddle-pix2pix-animatediff
+https://github.com/hua1995116/awesome-ai-painting/assets/12070073/c5582186-cd13-44c6-b3e8-8363280392bc
 
-https://github.com/viddle-app/viddle-pix2pix-animatediff
 
 https://twitter.com/TDS_95514874/status/1708103034214219897
 
+
+https://github.com/hua1995116/awesome-ai-painting/assets/12070073/7e721110-b383-4810-8f78-ea4ae7be5a94
+
+
+
 https://twitter.com/c0nsumption_/status/1711160317726597153
 
+
+
+https://github.com/hua1995116/awesome-ai-painting/assets/12070073/f0a5b51a-450a-41f7-a684-8c9de80d56d9
+
+
+
 https://twitter.com/DiffusionPics/status/1708937572880126338
+
+
+https://github.com/hua1995116/awesome-ai-painting/assets/12070073/3633a181-6153-4788-877c-11c3b7306e11
+
+
+
 
 https://www.youtube.com/watch?v=7_hh3wOD81s
 
@@ -164,3 +184,7 @@ https://www.reddit.com/r/StableDiffusion/comments/1736k87/eleven_vs_one_details_
 https://www.reddit.com/r/StableDiffusion/comments/1734ns0/a1111_webui_animatediff_v19_updated_support/
 
 https://www.reddit.com/r/StableDiffusion/comments/172lcxm/ai_revolution/
+
+https://huggingface.co/viddle/viddle-pix2pix-animatediff
+
+https://github.com/viddle-app/viddle-pix2pix-animatediff
