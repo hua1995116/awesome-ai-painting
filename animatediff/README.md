@@ -64,7 +64,7 @@
 详细介绍了使用 animatediff comfyui 的各种操作， 时长 5 个小时，非常久，但是非常详细
 
 
-### [ComfyUI AnimateDiff Guide/Workflows Including Prompt Scheduling - An Inner-Reflections Guide] https://civitai.com/articles/2379
+### [ComfyUI AnimateDiff Guide/Workflows Including Prompt Scheduling - An Inner-Reflections Guide](https://civitai.com/articles/2379)
 
 *摘要*
 
