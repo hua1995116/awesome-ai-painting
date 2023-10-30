@@ -14,6 +14,8 @@
 
 [AnimateDiff CLI prompt travel: IPAdapters, LoRAs, and Embeddings](https://www.youtube.com/watch?v=IxoXq9PiPis)
 
+[Guide: Workflow for Creating Animations using animatediff-cli-prompt-travel Step-by-Step](https://simpleaiart.com/sd-animatediff-cli-prompt-travel?a=b)
+
 ### 摘要(gpt总结)
 本视频介绍了如何使用AnimateDiff CLI prompt travel，主要关注Lora embeddings和IP adapter。Lora能够与文本提示进行混合，而IP adapter则允许使用图像提示。视频作者使用了IP adapter和Lora，以便更容易上手。除此之外，视频还提到了embedding，这是一种影响结果的方法。最后，视频演示了如何设置IP adapter和Lora，并展示了生成结果。
 
@@ -57,6 +59,14 @@
 详细介绍了使用 animatediff comfyui 的各种操作， 时长 5 个小时，非常久，但是非常详细
 
 
+[ComfyUI AnimateDiff Guide/Workflows Including Prompt Scheduling - An Inner-Reflections Guide] https://civitai.com/articles/2379
+
+### 摘要
+
+- 包含video2video 示例
+- 包含text2video 示例
+- 包含video2video 多 controlnet 控制示例
+
 ## webui教程
 
 
@@ -85,6 +95,8 @@
 - 🎨 通过改变代码可以突破三秒长度限制，生成更长的动画。
 - 🎬 生成的动画可用于作为素材，配合剪辑会有更好的效果。
 - 🤖 AnimateDiff提供了训练方法，可以让镜头更加丰富，动作更多，没有水印。 
+
+
 
 # 2.模型合集
 
