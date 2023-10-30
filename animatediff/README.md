@@ -153,7 +153,7 @@ https://github.com/hua1995116/awesome-ai-painting/assets/12070073/c5582186-cd13-
 https://twitter.com/TDS_95514874/status/1708103034214219897
 
 
-https://github.com/hua1995116/awesome-ai-painting/assets/12070073/7e721110-b383-4810-8f78-ea4ae7be5a94
+https://github.com/hua1995116/awesome-ai-painting/assets/12070073/200ecd03-4508-42ce-9762-ea9d5098639a
 
 
 
