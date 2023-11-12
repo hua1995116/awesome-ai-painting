@@ -22,6 +22,10 @@ LCM AnimateDiff 工作流方案（提速100%）：
 
 twitter地址：https://twitter.com/qiufenghyf/status/1723628793993322871
 
+openpost示例：
+
+https://www.reddit.com/r/StableDiffusion/comments/17s7vl8/its_so_fast_lcm_lora_controlnet_openpose/
+
 
 # 1.教程
 
