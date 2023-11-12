@@ -11,12 +11,16 @@
 
 # 0.性能提速
 
-LCM AnimateDiff 工作流方案（提示100%）：
+LCM AnimateDiff 工作流方案（提速100%）：
 
 [workflow_animatediff.json](./workflow_animatediff.json)
 
+<img width="956" alt="WeChat20f30d01961352caad9b01adda2fbafe" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/77d235cf-63d8-4544-bcec-2b82f67221cc">
 
-twitter地址：
+![AnimateDiff_00165_](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/54e84a30-9dd8-4bf7-885c-692a9034b256)
+
+
+twitter地址：https://twitter.com/qiufenghyf/status/1723628793993322871
 
 
 # 1.教程
