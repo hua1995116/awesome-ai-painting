@@ -8,6 +8,17 @@
  
 以上工具的容易上手程度 webui > comfyui > cli ， 他们之前不存在谁能代替谁，我的理解只是使用的人机交互界面不同，所有方式都能实现一致的效果。不过目前看起来 webui 插件目前还带有部分模型灰图的情况，但是生态来说 webui 更加强大。
 
+
+# 0.性能提速
+
+LCM AnimateDiff 工作流方案（提示100%）：
+
+[workflow_animatediff.json](./workflow_animatediff.json)
+
+
+twitter地址：
+
+
 # 1.教程
 
 ## cli 教程
@@ -169,6 +180,9 @@ https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 - https://github.com/Fannovel16/comfyui_controlnet_aux
 
 # 4.业内 case
+
+https://twitter.com/DiffusionPics/status/1716597134257164448
+
 
 https://twitter.com/FinanceYF5/status/1709022312824226047
 
