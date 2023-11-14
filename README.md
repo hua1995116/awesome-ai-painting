@@ -1,6 +1,15 @@
 # 数字绘画 ✨
 
 > 记录我使用 AI 绘画的过程，帮助更多的人学会 AI 画画。
+>
+
+## GPTs store
+
+<p>
+ <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/d1307a6a-bc19-411d-86d5-adfa8dea1ac4" height=400" />
+</p>
+
+[https://gptseasy.com](https://gptseasy.com)
 
 ## AnimateDiff
 
