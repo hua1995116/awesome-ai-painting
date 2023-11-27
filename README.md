@@ -1,24 +1,43 @@
 # 数字绘画 ✨
 
-> 记录我使用 AI 绘画的过程，帮助更多的人学会 AI 画画。
+> 我是一名AI绘画爱好者 & 早期AI绘画布道者，这个仓库是见证了我使用 AI 绘画的过程，它旨在帮助更多的人学会 AI 画画。并且也记录我励志打造100个AI产品的目标， 目前进度 4/100
 
-## AnimateDiff
+## 0.SDV - AI视频 - Stable diffusion Video
 
-近日新增 [AnimateDiff教程](./animatediff/README.md)
+Comfyui 工作流: 
 
-## 我的AI产品之路
+1.SVD + 插帧
 
-**23.7.22 更新**
-更新了一波长图二维码一键生成和光影文字  产品地址： [MewXAI星月熊](https://qr.mewx.art)
+
+
+## 1.AnimateDiff
+
+最近研究了一下 [AnimateDiff](https://github.com/guoyww/AnimateDiff), 对此用户进行了总结，从我整理的资料上来看，大体上使用的高阶应用分为三个种类：
+
+- cli  (https://github.com/s9roll7/animatediff-cli-prompt-travel)
+- comfyui (https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved)
+- webui (https://github.com/continue-revolution/sd-webui-animatediff)
+ 
+以上工具的容易上手程度 webui > comfyui > cli ， 他们之前不存在谁能代替谁，我的理解只是使用的人机交互界面不同，所有方式都能实现一致的效果。不过目前看起来 webui 插件目前还带有部分模型灰图的情况，但是生态来说 webui 更加强大。
+
+具体的对比查看以及工作流 [AnimateDiff教程](./animatediff/README.md)
+
+## 2.我的AI产品之路
+
+
+**23.11.10-产品-AI视频-艺映AI**
+
+产品地址: [艺映AI](https://artink.art)
+
+
+**23.7.22-产品-AI二维码-星月熊**
+
+产品地址: [MewXAI星月熊](https://qr.mewx.art)
 
 <p>
  <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/63efbd41-a64e-41a4-805d-ca384d11dda3" height="200" />
  <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/4cc237bf-da2a-4111-811f-5342e880a9b9" height="200" />
 </p>
-
-
-**23.7.13 更新**
-最近又进行了一波优化，这次带来的是的无码眼版本，效果炸裂，以下均可微信长按识别。
 
 <p>
  <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/fe7bfeb9-47b8-4d51-99bb-b0d3edadfa09" width="100" />
@@ -27,9 +46,18 @@
  <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/ccb683f7-06a5-437b-8e35-70fd961279fb" width="100" />
 </p>
 
-[探索更多](./%E6%88%91%E7%9A%84%E4%BA%A7%E5%93%81%E4%B9%8B%E8%B7%AF/README.md)
 
-## 0.近期资讯
+**22.11.12-产品-AI绘画-MewXAI**
+
+[https://mewx.art](https://mewx.art)
+
+
+**21.7.13-新产品-木及简历**
+
+[https://mujicv.com](https://mujicv.com)
+
+
+## 3.近期资讯
 
 [让 Stable Diffusion 提高图片质量的新方案 —— FreeU](https://mp.weixin.qq.com/s/aHlPBxA3LybRhYPXsYzzJg)
 
@@ -83,7 +111,7 @@ AI这样把NB写在脸上，它在玩一种很新的艺术
 
 
 
-## 1. 可使用绘画的平台
+## 4. 可使用绘画的平台
 
 ### 📪 国外
 
@@ -192,7 +220,7 @@ novelAI
 https://huggingface.co/acheong08/secretAI/resolve/main/stableckpt/animefull-final-pruned/model.ckpt
 
 
-## 2. 使用教程
+## 5. 使用教程
 
 #### Stable Diffusion（推荐）
 
@@ -219,7 +247,7 @@ https://huggingface.co/acheong08/secretAI/resolve/main/stableckpt/animefull-fina
 
 
 
-## 3. 自建教程
+## 6. 自建教程
 ### GPU厂商 - 国内 （亲民价格）
 
 | 厂商   | 地址                                               | 价格                            |
@@ -232,6 +260,11 @@ https://huggingface.co/acheong08/secretAI/resolve/main/stableckpt/animefull-fina
 | 阿里云 | https://www.aliyun.com/activity/bigdata/pai/studio | 免费 A10/T4/G6 1个月            |
 
 ### 显卡选择
+
+显卡性价比跑分图
+
+
+
 [时代变了，大人：RTX 3090时代，哪款显卡配得上我的炼丹炉？](https://zhuanlan.zhihu.com/p/225507448)
 
 ### 自建教程
@@ -298,7 +331,7 @@ http://www.prompttool.com/
 
 
 
-## 5. 交流群
+## 7. 交流群
 **微信群：已满群可加 qiufengblue**
 
 **QQ群: 713773093**
