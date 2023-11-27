@@ -6,8 +6,9 @@
 
 Comfyui 工作流: 
 
-1.SVD + 插帧
+1.SVD + 插帧 (from https://twitter.com/PurzBeats)
 
+![视频工作流](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/db9ad5ed-47d0-4cc7-bb6a-23e8b69ad585)
 
 
 ## 1.AnimateDiff
@@ -28,6 +29,9 @@ Comfyui 工作流:
 **23.11.10-产品-AI视频-艺映AI**
 
 产品地址: [艺映AI](https://artink.art)
+
+
+https://github.com/hua1995116/awesome-ai-painting/assets/12070073/ea435ef4-d3b0-4e96-990e-964dddb939cb
 
 
 **23.7.22-产品-AI二维码-星月熊**
@@ -262,7 +266,7 @@ https://huggingface.co/acheong08/secretAI/resolve/main/stableckpt/animefull-fina
 
 显卡性价比跑分图
 
-
+<img width="1147" alt="image" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/11c2e60a-51dc-4cf2-8b58-b256b6978106">
 
 [时代变了，大人：RTX 3090时代，哪款显卡配得上我的炼丹炉？](https://zhuanlan.zhihu.com/p/225507448)
 
