@@ -266,9 +266,9 @@ https://huggingface.co/acheong08/secretAI/resolve/main/stableckpt/animefull-fina
 
 显卡速度
 
+![image](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/8ee6ffdd-bf1f-48b2-bc5d-19de42f25722)
 
-
-
+![image](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/c8d2ae85-63a4-4c52-8f25-e788c3d9d05c)
 
 来源: https://www.tomshardware.com/pc-components/gpus/stable-diffusion-benchmarks
 
