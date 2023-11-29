@@ -264,6 +264,15 @@ https://huggingface.co/acheong08/secretAI/resolve/main/stableckpt/animefull-fina
 
 ### 显卡选择
 
+显卡速度
+
+
+
+
+
+来源: https://www.tomshardware.com/pc-components/gpus/stable-diffusion-benchmarks
+
+
 显卡性价比跑分图
 
 <img width="1147" alt="image" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/11c2e60a-51dc-4cf2-8b58-b256b6978106">
