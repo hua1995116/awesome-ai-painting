@@ -5,7 +5,11 @@
 
 ## SDXL Turbo 
 
+<a href="https://www.youtube.com/watch?v=Jh0kJl7duXM">
+ <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/8f440d9a-9b3f-4239-af6f-ec8da12074e8" width="600" alt="SDXL Turbo 零基础 Comfyui 教程, 1秒4张图">
+</a>
 
+地址: https://www.youtube.com/watch?v=Jh0kJl7duXM
 
 ## 0.SDV - AI视频 - Stable diffusion Video
 
