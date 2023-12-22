@@ -289,6 +289,9 @@ https://huggingface.co/acheong08/secretAI/resolve/main/stableckpt/animefull-fina
 
 来源: https://www.tomshardware.com/pc-components/gpus/stable-diffusion-benchmarks
 
+![image](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/a4aa8144-07df-42d0-82c2-5e94fe2c61f3)
+
+来源: https://www.pugetsystems.com/labs/articles/stable-diffusion-performance-nvidia-geforce-vs-amd-radeon/
 
 显卡性价比跑分图
 
