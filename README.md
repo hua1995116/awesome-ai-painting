@@ -2,7 +2,7 @@
 
 > 我是秋风，是一名AI绘画爱好者，从22年中旬就开始接触AIGC行业，早期主要是AI绘画布道为主，目前主要分享AI知识和做AI产品。这个仓库是见证了我使用 AI 绘画的过程，它旨在帮助更多的人学会 AI 画画。并且也记录我励志打造100个AI产品的目标， 目前进度 4/100， 你可以在 [twitter](https://twitter.com/qiufenghyf) 关注我, 了解我的最新动态。
 
-产品列表: [MewXAI](https://www.mewx.art) | [星月熊](https://qr.mewx.art) | [艺映AI](https://www.artink.art) | [图像增强器](https://www.mewxai.com)
+我的产品列表: [MewXAI](https://www.mewx.art) | [星月熊](https://qr.mewx.art) | [艺映AI](https://www.artink.art) | [图像增强器](https://www.mewxai.com)
 
 
 ## Magic Animate
