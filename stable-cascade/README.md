@@ -1,18 +1,25 @@
 ### stable-cascade 使用教程
 
 1.安装最新版本的 Comyfui
+
 2.将 https://huggingface.co/stabilityai/stable-cascade/tree/main 下面的 stage_b 和 stage_c 模型放到 ComfyUI/models/unet 下面
+
 3.将 https://huggingface.co/stabilityai/stable-cascade/tree/main 下面的 stage_a 模型
+
 4.将 clip 模型 https://huggingface.co/stabilityai/stable-cascade/tree/main/text_encoder 放到 ComfyUI/models/clip
 
 说明：
 
 stage_b 和 stage_c 可以根据显存选择不同的组合，组合如下（以下组合越往下显存消耗越小）: 
 
-stage_b.safetensors + stage_c.safetensors
-stage_b_bf16.safetensors + stage_c_bf16.safetensors
-stage_b_lite.safetensors + stage_c_lite.safetensors
-stage_b_lite_bf16.safetensors + stage_c_lite_bf16.safetensors
+- stage_b.safetensors + stage_c.safetensors
+- stage_b_bf16.safetensors + stage_c_bf16.safetensors
+- stage_b_lite.safetensors + stage_c_lite.safetensors
+- stage_b_lite_bf16.safetensors + stage_c_lite_bf16.safetensors
+
+Comyfui 工作流
+
+[stable_cascade_workflow_test.json](https://github.com/hua1995116/awesome-ai-painting/files/14339725/stable_cascade_workflow_test.json)
 
 
 ## stable-cascade 训练教程
