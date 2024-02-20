@@ -11,6 +11,7 @@
 1.安装最新版本的 Comyfui
 ... 
 
+[查看更多](./stable-cascade/)
 
 
 ## Magic Animate
