@@ -1,4 +1,6 @@
-### stable-cascade 使用教程
+## stable-cascade 使用教程
+
+[English](./README_en.md) [中文](./README.md)
 
 1.安装最新版本的 Comyfui
 

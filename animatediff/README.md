@@ -1,5 +1,7 @@
 # Awesome  AnimateDiff Tutorial
 
+[English](./README_en.md) [中文](./README.md)
+
 最近研究了一下 [AnimateDiff](https://github.com/guoyww/AnimateDiff), 对此用户进行了总结，从我整理的资料上来看，大体上使用的高阶应用分为三个种类：
 
 - cli  (https://github.com/s9roll7/animatediff-cli-prompt-travel)
