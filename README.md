@@ -4,6 +4,14 @@
 
 我的产品列表: [MewXAI绘画](https://www.mewx.art) | [星月熊](https://qr.mewx.art) | [艺映AI](https://www.artink.art) | [图片放大增强GoEnhance AI](https://goenhance.ai) | [视频转视频Video2Video](https://goenhance.ai)
 
+## stable-cascade
+
+### 使用教程
+
+1.安装最新版本的 Comyfui
+... 
+
+
 
 ## Magic Animate
 
