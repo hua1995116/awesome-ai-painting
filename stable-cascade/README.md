@@ -34,6 +34,22 @@ https://github.com/bmaltais/kohya_ss/tree/stable-cascade
 
 https://github.com/bmaltais/kohya_ss/tree/stable-cascade/examples/stable_cascade
 
+训练启动示例(官方中有部分参数异常训练会报错)
+
+```
+accelerate launch --mixed_precision bf16 --num_cpu_threads_per_process 8 stable_cascade_train_stage_c.py \
+  --mixed_precision bf16 --save_precision bf16 --max_data_loader_n_workers 2 --persistent_data_loader_workers \
+  --gradient_checkpointing --learning_rate 1e-4 \
+  --optimizer_type adafactor --optimizer_args "scale_parameter=False" "relative_step=False" "warmup_init=False" \
+  --max_train_epochs 10 --save_every_n_epochs 1 --save_precision bf16 \
+  --output_dir "/root/autodl-tmp/kohya_ss/output" --output_name "testv1" \
+  --stage_c_checkpoint_path "/root/autodl-tmp/ckpts/stage_c_bf16.safetensors" \
+  --effnet_checkpoint_path "/root/autodl-tmp/ckpts/effnet_encoder.safetensors" \
+  --previewer_checkpoint_path "/root/autodl-tmp/ckpts/previewer.safetensors" \
+  --dataset_config "/root/autodl-tmp/kohya_ss/examples/stable_cascade/test_dataset.toml" \
+  --sample_every_n_epochs 1 --sample_prompts "/root/autodl-tmp/kohya_ss/examples/stable_cascade/prompt.txt" \
+  --adaptive_loss_weight
+```
 
 ## stable-cascade 介绍
 
