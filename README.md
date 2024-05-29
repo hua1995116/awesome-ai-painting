@@ -6,6 +6,12 @@
 
 我的产品列表: [MewXAI绘画](https://www.mewx.art) | [星月熊](https://qr.mewx.art) | [艺映AI](https://www.artink.art) | [图片放大增强GoEnhance AI](https://goenhance.ai) | [视频转视频Video2Video](https://goenhance.ai)
 
+## ChatTTS
+
+ChatTTS是专门为对话场景设计的文本转语音模型，例如LLM助手对话任务。它支持英文和中文两种语言。最大的模型使用了10万小时以上的中英文数据进行训练。
+
+(ChatTTS)[https://www.chattts.co/]
+
 ## stable-cascade
 
 ### 使用教程
