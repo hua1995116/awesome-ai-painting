@@ -4,7 +4,13 @@
 
 > 我是秋风，是一名AI绘画爱好者，从22年中旬就开始接触AIGC行业，早期主要是AI绘画布道为主，目前主要分享AI知识和做AI产品。这个仓库是见证了我使用 AI 绘画的过程，它旨在帮助更多的人学会 AI 画画。并且也记录我励志打造100个AI产品的目标， 目前进度 4/100， 你可以在 [twitter](https://twitter.com/qiufenghyf) 关注我, 了解我的最新动态。
 
-我的产品列表: [MewXAI绘画](https://www.mewx.art) | [星月熊](https://qr.mewx.art) | [艺映AI](https://www.artink.art) | [图片放大增强GoEnhance AI](https://goenhance.ai) | [视频转视频Video2Video](https://goenhance.ai)
+我的产品列表: [MewXAI绘画](https://www.mewx.art) | [星月熊](https://qr.mewx.art) | [艺映AI](https://www.artink.art) | [图片放大增强GoEnhance AI](https://goenhance.ai) | [视频转视频Video2Video](https://goenhance.ai) | [GPTs-SEO优化](https://chatgpt.com/g/g-Rj7Zxv61Y-seo-multilingual-master) | [stablediffusion3](https://stablediffusion3-site.vercel.app/)
+
+## ChatTTS
+
+ChatTTS是专门为对话场景设计的文本转语音模型，例如LLM助手对话任务。它支持英文和中文两种语言。最大的模型使用了10万小时以上的中英文数据进行训练。
+
+[ChatTTS](https://www.chattts.co/)
 
 ## Flux.1 
 
