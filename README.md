@@ -363,6 +363,8 @@ NovelAI 法术解析: https://spell.novelai.dev/
 
 [https://arthub.ai/](https://arthub.ai/)
 
+[https://aiimagelab.art/](https://aiimagelab.art/) - 免费AI图片生成器，8大分类提示词库，支持4K输出
+
 [https://lexica.art/](https://lexica.art/) 
 
 [https://www.krea.ai/?continueFlag=6591d07b3186f4c7e58de1a4bcfaefb0](https://www.krea.ai/?continueFlag=6591d07b3186f4c7e58de1a4bcfaefb0)
