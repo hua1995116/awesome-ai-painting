@@ -171,6 +171,7 @@ AI这样把NB写在脸上，它在玩一种很新的艺术
 |artbreeder             |免费      |https://www.artbreeder.com/beta/collage                                                                                        |
 |dreamstudio            |200点数   |https://beta.dreamstudio.ai/                                                                                                   |
 |nightcafe              |-       |https://creator.nightcafe.studio/create/text-to-image?algo=stable                                                              |
+| PopcornAI | AI video and image generator for creators, ecommerce sellers, and growth teams. Turn prompts and product images into branded short clips, launch visuals, and campaign-ready creative assets. | [🔗](https://popcornai.art/) |
 |starryai               |-       |https://create.starryai.com/my-creations                                                                                       |
 |webui                  |免费      |https://colab.research.google.com/github/altryne/sd-webui-colab/blob/main/Stable_Diffusion_WebUi_Altryne.ipynb                 |
 |替换图片                   |免费      |https://colab.research.google.com/drive/1R2HJvufacjy7GNrGCwgSE3LbQBk5qcS3?usp=sharing                                          |
