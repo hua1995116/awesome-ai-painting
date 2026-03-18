@@ -164,6 +164,7 @@ AI这样把NB写在脸上，它在玩一种很新的艺术
 
 |Name                   | Tags   |URL                                                                                                                       |
 |-----------------------|-----------|-----------------------------------------------------------------------------------------------------------|
+|NanoBanana2              |免费      |https://nanobanana2.com/                                            |AI图片生成，支持多模型(Gemini/DALL-E/SD)，趋势模板|
 |midjourney             |新用户免费20次|https://www.midjourney.com/                                                                                                    |
 |wombo.art              |免费      |https://app.wombo.art/                                                                                                         |
 |Google Colab           |免费      |https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb#scrollTo=yEErJFjlrSWS|
