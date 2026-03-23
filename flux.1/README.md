@@ -1,4 +1,6 @@
-# Flux.1: The Best AI Image Generator
+# Flux.1: A Strong AI Image Generator
+
+[English](./README.md) [Chinese](./README_zh.md)
 
 ## 1. Introduction
 
@@ -6,7 +8,7 @@ In the ever-evolving landscape of AI-powered creativity, a new star has risen: F
 
 Flux.1 isn't just another AI image generator; it's a game-changer that's challenging established players like Midjourney and DALL·E. With its ability to create stunning, high-resolution images from text descriptions, Flux.1 is opening up new possibilities for artists, designers, and content creators worldwide.
 
-[Free To Use Flux.1](https://www.goenhance.ai/tools/flux1-ai-image-generator)
+[Use Flux.1 for Free](https://www.goenhance.ai/tools/flux1-ai-image-generator)
 
 ## 2. Features and Capabilities
 
@@ -62,8 +64,8 @@ A: In benchmark tests, Flux.1 has demonstrated superior performance in visual qu
 
 ## 4. Conclusion
 
-Flux.1 is more than just an AI image generator; it's a glimpse into the future of visual content creation. Its combination of speed, quality, and accessibility is setting new standards in the field, making professional-grade image generation available to everyone from hobbyists to industry professionals.
+Flux.1 is more than just an AI image generator; it offers a practical glimpse into the future of visual content creation. Its combination of speed, quality, and accessibility sets a high bar for the field and makes professional-grade image generation more approachable for everyone from hobbyists to industry professionals.
 
 As Flux.1 continues to evolve and more platforms adopt it, we can expect to see its impact grow even further. The open-source nature of some Flux.1 models ensures that the community will play a crucial role in its development, potentially leading to even more impressive capabilities in the future.
 
-Whether you're an artist looking to expand your creative toolkit, a developer integrating AI into your applications, or simply someone curious about the latest in AI technology, Flux.1 offers an exciting opportunity to explore the cutting edge of image generation. As we look to the future, one thing is clear: Flux.1 is not just keeping pace with the AI revolution – it's helping to lead it.
+Whether you're an artist looking to expand your creative toolkit, a developer integrating AI into your applications, or simply someone curious about the latest in AI technology, Flux.1 is a useful way to explore the current edge of image generation.

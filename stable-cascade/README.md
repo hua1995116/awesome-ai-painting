@@ -1,42 +1,40 @@
-## stable-cascade 使用教程
+## Stable Cascade Guide
 
-[English](./README_en.md) [中文](./README.md)
+### Setup
 
-1.安装最新版本的 Comyfui
+1. Install the latest version of ComfyUI.
+2. Place the `stage_b` and `stage_c` model files from https://huggingface.co/stabilityai/stable-cascade/tree/main into `ComfyUI/models/unet`.
+3. Place the `stage_a` model files from the same repository in the location required by your ComfyUI setup.
+4. Place the CLIP text encoder from https://huggingface.co/stabilityai/stable-cascade/tree/main/text_encoder into `ComfyUI/models/clip`.
 
-2.将 https://huggingface.co/stabilityai/stable-cascade/tree/main 下面的 stage_b 和 stage_c 模型放到 ComfyUI/models/unet 下面
+Notes:
 
-3.将 https://huggingface.co/stabilityai/stable-cascade/tree/main 下面的 stage_a 模型
+`stage_b` and `stage_c` can be mixed and matched depending on your available VRAM. The combinations below are ordered from highest to lowest VRAM usage:
 
-4.将 clip 模型 https://huggingface.co/stabilityai/stable-cascade/tree/main/text_encoder 放到 ComfyUI/models/clip
+- `stage_b.safetensors` + `stage_c.safetensors`
+- `stage_b_bf16.safetensors` + `stage_c_bf16.safetensors`
+- `stage_b_lite.safetensors` + `stage_c_lite.safetensors`
+- `stage_b_lite_bf16.safetensors` + `stage_c_lite_bf16.safetensors`
 
-说明：
-
-stage_b 和 stage_c 可以根据显存选择不同的组合，组合如下（以下组合越往下显存消耗越小）: 
-
-- stage_b.safetensors + stage_c.safetensors
-- stage_b_bf16.safetensors + stage_c_bf16.safetensors
-- stage_b_lite.safetensors + stage_c_lite.safetensors
-- stage_b_lite_bf16.safetensors + stage_c_lite_bf16.safetensors
-
-Comyfui 工作流
+### ComfyUI Workflow
 
 [stable_cascade_workflow_test.json](https://github.com/hua1995116/awesome-ai-painting/files/14339725/stable_cascade_workflow_test.json)
 
+## Training
 
-## stable-cascade 训练教程
-
-目前 kohya_ss 已经支持了早期的 stable-cascade 训练
+`kohya_ss` already supports early Stable Cascade training:
 
 https://github.com/bmaltais/kohya_ss/tree/stable-cascade
 
-训练示例：
+Training example:
 
 https://github.com/bmaltais/kohya_ss/tree/stable-cascade/examples/stable_cascade
 
-训练启动示例(官方中有部分参数异常训练会报错)
+Launch example:
 
-```
+The original upstream example contains a few parameters that can fail in practice. This version is the adjusted command used in this repository:
+
+```bash
 accelerate launch --mixed_precision bf16 --num_cpu_threads_per_process 8 stable_cascade_train_stage_c.py \
   --mixed_precision bf16 --save_precision bf16 --max_data_loader_n_workers 2 --persistent_data_loader_workers \
   --gradient_checkpointing --learning_rate 1e-4 \
@@ -51,8 +49,8 @@ accelerate launch --mixed_precision bf16 --num_cpu_threads_per_process 8 stable_
   --adaptive_loss_weight
 ```
 
-## stable-cascade 介绍
+## Overview
 
-是一个建立在Würstchen架构之上的创新文本到图像模型。Stable Cascade的显著特点在于其采用的三阶段方法，这种方法不仅在图像质量、灵活性和微调能力上达到了新的高度，而且极大地降低了对硬件的要求，使得在普通消费级硬件上进行训练和微调变得轻而易举。
+Stable Cascade is a text-to-image model built on the Wurstchen architecture. Its three-stage design improves image quality, flexibility, and fine-tuning potential while also lowering hardware requirements enough to make consumer-grade training and adaptation much more practical.
 
 https://github.com/Stability-AI/StableCascade

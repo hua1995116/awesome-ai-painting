@@ -1,99 +1,81 @@
-# Awesome  AnimateDiff Tutorial
+# Awesome AnimateDiff Guide
 
-[English](./README_en.md) [中文](./README.md)
+AnimateDiff usage in this repository is organized around three common workflows:
 
-最近研究了一下 [AnimateDiff](https://github.com/guoyww/AnimateDiff), 对此用户进行了总结，从我整理的资料上来看，大体上使用的高阶应用分为三个种类：
+- CLI: https://github.com/s9roll7/animatediff-cli-prompt-travel
+- ComfyUI: https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
+- WebUI: https://github.com/continue-revolution/sd-webui-animatediff
 
-- cli  (https://github.com/s9roll7/animatediff-cli-prompt-travel)
-- comfyui (https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved)
-- webui (https://github.com/continue-revolution/sd-webui-animatediff)
- 
-以上工具的容易上手程度 webui > comfyui > cli ， 他们之前不存在谁能代替谁，我的理解只是使用的人机交互界面不同，所有方式都能实现一致的效果。不过目前看起来 webui 插件目前还带有部分模型灰图的情况，但是生态来说 webui 更加强大。
+For most users, the learning curve is roughly WebUI, then ComfyUI, then CLI. The tools are different interfaces over similar core capabilities rather than direct replacements for one another.
 
+## 0. Performance Boost
 
-# 0.性能提速
-
-LCM AnimateDiff 工作流方案（提速100%）：
+LCM AnimateDiff workflow for roughly 2x speed improvements:
 
 [workflow_animatediff.json](./workflow_animatediff.json)
 
-<img width="956" alt="WeChat20f30d01961352caad9b01adda2fbafe" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/77d235cf-63d8-4544-bcec-2b82f67221cc">
+<img width="956" alt="AnimateDiff workflow screenshot" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/77d235cf-63d8-4544-bcec-2b82f67221cc">
 
-![AnimateDiff_00165_](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/54e84a30-9dd8-4bf7-885c-692a9034b256)
+![AnimateDiff sample output](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/54e84a30-9dd8-4bf7-885c-692a9034b256)
 
+Twitter post: https://twitter.com/qiufenghyf/status/1723628793993322871
 
-twitter地址：https://twitter.com/qiufenghyf/status/1723628793993322871
-
-openpost示例：
+OpenPose example:
 
 https://www.reddit.com/r/StableDiffusion/comments/17s7vl8/its_so_fast_lcm_lora_controlnet_openpose/
 
+## 1. Tutorials
 
-# 1.教程
+### CLI Tutorials
 
-## cli 教程
+#### [Guide: Workflow for Creating Animations Using animatediff-cli-prompt-travel Step by Step](https://simpleaiart.com/sd-animatediff-cli-prompt-travel?a=b)
 
-### [Guide: Workflow for Creating Animations using animatediff-cli-prompt-travel Step-by-Step](https://simpleaiart.com/sd-animatediff-cli-prompt-travel?a=b)
+Summary:
 
-*摘要*
+Creates a sequence of still images and then stitches them together with AnimateDiff.
 
-主要使用了用AWPainting制作一系列图片，然后通过 Animatediff 进行串联的教学
+#### [AnimateDiff CLI Prompt Travel: IPAdapters, LoRAs, and Embeddings](https://www.youtube.com/watch?v=IxoXq9PiPis)
 
-### [AnimateDiff CLI prompt travel: IPAdapters, LoRAs, and Embeddings](https://www.youtube.com/watch?v=IxoXq9PiPis)
+Summary:
 
+This video explains how to use IP-Adapter, LoRA, and embeddings with the CLI prompt-travel workflow. It focuses on mixing text prompts with image prompts and shows how those controls affect the final animation.
 
-*摘要(gpt总结)*
-本视频介绍了如何使用AnimateDiff CLI prompt travel，主要关注Lora embeddings和IP adapter。Lora能够与文本提示进行混合，而IP adapter则允许使用图像提示。视频作者使用了IP adapter和Lora，以便更容易上手。除此之外，视频还提到了embedding，这是一种影响结果的方法。最后，视频演示了如何设置IP adapter和Lora，并展示了生成结果。
+Highlights:
 
-*亮点*
-🎬 Lora embeddings和IP adapter的介绍
-🌟 IP adapter能够与文本提示混合，Lora则允许使用图像提示
-📚 Embedding是影响结果的方法
-🖥️ IP adapter和Lora的设置步骤
-🚀 展示了生成结果
+- IP-Adapter can blend image guidance with text prompts.
+- LoRAs can be layered into the workflow for style control.
+- Embeddings are another practical lever for steering results.
+- The tutorial includes concrete setup steps and output examples.
 
-### [AI视频生成新工具！animatediff-cli-prompt-travel拥有巨大潜力！视频赛道有哪些机会？](https://www.bilibili.com/video/BV1w34y137Bu/?spm_id_from=333.337.search-card.all.click&vd_source=8d16a2bc27ef95a22c29f9a40f8f5633)
+#### [A New AI Video Tool with Strong Potential: animatediff-cli-prompt-travel](https://www.bilibili.com/video/BV1w34y137Bu/?spm_id_from=333.337.search-card.all.click&vd_source=8d16a2bc27ef95a22c29f9a40f8f5633)
 
+Summary:
 
-*摘要(gpt总结)*
+Introduces AnimateDiff as a practical wrapper around AI video generation workflows, with ControlNet and IP-Adapter support for style transfer, script-to-video experiments, short-form social content, and comic-to-video work.
 
-这个视频是介绍一个新工具AnimateDiff，它是基于AnimateDiff的一个封装，用来解决AI视频生成中的一些痛点，并引入了ControlNet和IP Adapter。它的特点是可以进行风格转换，控制视频中的图像细节，可以用来做快速脚本转视频，抖音风格视频，漫画转视频等，具有巨大的潜力。
+### ComfyUI Tutorials
 
-*亮点*
+#### [ComfyUI AnimateDiff Prompt Travel: Unlimited Animation Length](https://www.youtube.com/watch?v=L45Xqtk8J0I)
 
-- 🎨 AnimateDiff是一个AI视频生成的新工具，可以解决一些痛点
-- 🎞️ 它可以进行风格转换，控制视频中的图像细节
-- 🚀 可以用来做快速脚本转视频、抖音风格视频、漫画转视频等
-- 🤖 引入了ControlNet和IP Adapter，拥有巨大的潜力
-- 📈 可以用来做更多有意思的视频生成，具有非常大的市场机会
+Summary:
 
+A lightweight introduction to AnimateDiff in ComfyUI.
 
+#### [ComfyUI Setup and AnimateDiff-Evolved Workflow with ControlNet OpenPose and QRCode Monster](https://www.youtube.com/watch?v=GV_syPyGSDY)
 
+Summary:
 
-## comfyui教程
+A very long but detailed walkthrough of advanced AnimateDiff usage in ComfyUI.
 
-### [ComfyUI AnimateDiff Prompt Travel: Unlimited Animation Length!](https://www.youtube.com/watch?v=L45Xqtk8J0I)
+#### [ComfyUI AnimateDiff Guide and Workflows Including Prompt Scheduling](https://civitai.com/articles/2379)
 
-*摘要*
+Summary:
 
-介绍了使用 animatediff comfyui 的入门级别操作，简单快速
+- Includes `video2video` examples.
+- Includes `text2video` examples.
+- Includes multi-ControlNet `video2video` examples.
 
-### [ComfyUI Setup & AnimateDiff-Evolved Workflow + ControlNet OpenPose and QRcode Monster](https://www.youtube.com/watch?v=GV_syPyGSDY)
-
-*摘要*
-
-详细介绍了使用 animatediff comfyui 的各种操作， 时长 5 个小时，非常久，但是非常详细
-
-
-### [ComfyUI AnimateDiff Guide/Workflows Including Prompt Scheduling - An Inner-Reflections Guide](https://civitai.com/articles/2379)
-
-*摘要*
-
-- 包含video2video 示例
-- 包含text2video 示例
-- 包含video2video 多 controlnet 控制示例
-
-### SDXL Suppport
+### SDXL Support
 
 https://civitai.com/articles/2601
 
@@ -105,141 +87,93 @@ https://www.reddit.com/r/StableDiffusion/comments/1740eh8/now_we_can_try_hotshot
 
 https://zhuanlan.zhihu.com/p/663187463
 
+### WebUI Tutorials
 
-## webui教程
+#### [AnimateDiff Was Just Updated and Now Supports Motion Control](https://www.bilibili.com/video/BV1N34y1G7pm)
 
+Summary:
 
-### [animatediff昨天更新啦！ 可以控制动作了，赶紧做动起来的小姐姐吧！](https://www.bilibili.com/video/BV1N34y1G7pm)
+Explains the latest plugin update and how to guide character motion with prompts.
 
-*摘要(gpt总结)*
+Highlights:
 
-视频介绍了animatediff插件的更新情况，以及如何使用该插件来控制小姐姐的动作。
+- Noticeably smoother AI video output.
+- Prompt-based control over subtle motion.
+- Easy-to-use panel with a recommendation to use the latest `15_V2` release.
+- Settings for both short GIFs and longer video runs.
+- Straightforward installation with a good path for staying updated.
 
-*亮点*
+#### [Local AnimateDiff Installation for Very Long Animations](https://www.bilibili.com/video/BV1RF411C7ix)
 
-- 🤩 AI视频生成质量大幅提升，丝滑流畅
-- 🤔 通过描述词来控制小姐姐的细微动作
-- 🚀 简单易用的面板，推荐最新版本15_V2
-- 💡 优化设置可以选择生成一段完整的动图或稳定的长串视频
-- 💻 安装简单，建议自行安装以实时更新
+Summary:
 
+Shows how to install AnimateDiff locally, explains the approximate 12 GB VRAM requirement, and demonstrates how code changes can extend the default duration limit.
 
-### [动画自由？无限长动画生成，AnimateDiff本地化安装](https://www.bilibili.com/video/BV1RF411C7ix)
+## 2. Model Collection
 
-*摘要(gpt总结)*
-今天要分享的是AI开源软件AnimateDiff，可以生成长动画，需要12G显存。通过改变代码可以突破三秒长度限制，生成更长的动画。
+The core AnimateDiff release currently centers on three motion base models and eight motion LoRAs:
 
-*亮点*
-- 🎞️ AnimateDiff可以生成长动画，需要12G显存，优化后可在3090显卡上运行。
-- 🚀 安装过程简单，按照文档安装即可。
-- 🎨 通过改变代码可以突破三秒长度限制，生成更长的动画。
-- 🎬 生成的动画可用于作为素材，配合剪辑会有更好的效果。
-- 🤖 AnimateDiff提供了训练方法，可以让镜头更加丰富，动作更多，没有水印。 
+`mm_sd_v14.ckpt`
 
+`mm_sd_v15.ckpt`
 
+`mm_sd_v15_v2.ckpt`
 
-# 2.模型合集
+`v2_lora_PanLeft.ckpt`
 
-目前主要分为 3个运动主模型 和 8个 运动 lora
+`v2_lora_PanRight.ckpt`
 
-mm_sd_v14.ckpt
+`v2_lora_RollingAnticlockwise.ckpt`
 
-mm_sd_v15.ckpt
+`v2_lora_RollingClockwise.ckpt`
 
-mm_sd_v15_v2.ckpt
+`v2_lora_TiltDown.ckpt`
 
-v2_lora_PanLeft.ckpt
+`v2_lora_TiltUp.ckpt`
 
-v2_lora_PanRight.ckpt
+`v2_lora_ZoomIn.ckpt`
 
-v2_lora_RollingAnticlockwise.ckpt
+`v2_lora_ZoomOut.ckpt`
 
-v2_lora_RollingClockwise.ckpt
+Download:
 
-v2_lora_TiltDown.ckpt
+https://huggingface.co/guoyww/animatediff/tree/main
 
-v2_lora_TiltUp.ckpt
+## 3. Ecosystem
 
-v2_lora_ZoomIn.ckpt
-
-v2_lora_ZoomOut.ckpt
-
-下载地址：https://huggingface.co/guoyww/animatediff/tree/main
-
-# 3.生态套件
-
-## cli
+### CLI
 
 https://github.com/s9roll7/animatediff-cli-prompt-travel
 
-
-## webui
+### WebUI
 
 https://github.com/continue-revolution/sd-webui-animatediff
 
-## comfyui
+### ComfyUI
 
 https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 
 - https://github.com/FizzleDorf/ComfyUI_FizzNodes
-
 - https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
-
 - https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
-
 - https://github.com/Fannovel16/comfyui_controlnet_aux
 
-# 4.业内 case
+## 4. Industry Examples
 
 https://twitter.com/DiffusionPics/status/1716597134257164448
 
-
 https://twitter.com/FinanceYF5/status/1709022312824226047
 
-
 https://github.com/hua1995116/awesome-ai-painting/assets/12070073/ea4e60ca-0fa8-449b-9a33-549a1fb1b665
-
 
 https://twitter.com/slimesunday/status/1709326883626615095
 
 https://github.com/hua1995116/awesome-ai-painting/assets/12070073/c5582186-cd13-44c6-b3e8-8363280392bc
 
-
 https://twitter.com/TDS_95514874/status/1708103034214219897
-
 
 https://github.com/hua1995116/awesome-ai-painting/assets/12070073/200ecd03-4508-42ce-9762-ea9d5098639a
 
-
-
 https://twitter.com/c0nsumption_/status/1711160317726597153
 
-
-
 https://github.com/hua1995116/awesome-ai-painting/assets/12070073/f0a5b51a-450a-41f7-a684-8c9de80d56d9
-
-
-
-https://twitter.com/DiffusionPics/status/1708937572880126338
-
-
-https://github.com/hua1995116/awesome-ai-painting/assets/12070073/3633a181-6153-4788-877c-11c3b7306e11
-
-
-
-
-https://www.youtube.com/watch?v=7_hh3wOD81s
-
-https://www.reddit.com/r/StableDiffusion/comments/16xx177/ipadapters_in_animatediffcliprompttravel_another/?utm_source=share&utm_medium=web2x&context=3
-
-https://www.reddit.com/r/StableDiffusion/comments/173rrc2/underwater_caustics_study_using_animatediff/
-
-https://www.reddit.com/r/StableDiffusion/comments/1736k87/eleven_vs_one_details_in_comments/
-
-https://www.reddit.com/r/StableDiffusion/comments/1734ns0/a1111_webui_animatediff_v19_updated_support/
-
-https://www.reddit.com/r/StableDiffusion/comments/172lcxm/ai_revolution/
-
-https://huggingface.co/viddle/viddle-pix2pix-animatediff
-
-https://github.com/viddle-app/viddle-pix2pix-animatediff

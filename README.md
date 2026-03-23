@@ -1,86 +1,80 @@
-# AI绘画最全资料合集 ✨
+# The Most Comprehensive Collection of AI Art Resources
 
-[English](./README_en.md) [中文](./README.md)
+> I am Qiufeng, an AI art enthusiast who has been involved in AIGC since mid-2022. This repository documents my learning path, resource curation, and product experiments. The goal is to help more people get started with AI-generated art while tracking my long-term goal of building 100 AI products. Current progress: 4/100.
 
-> 我是秋风，是一名AI绘画爱好者，从22年中旬就开始接触AIGC行业，早期主要是AI绘画布道为主，目前主要分享AI知识和做AI产品。这个仓库是见证了我使用 AI 绘画的过程，它旨在帮助更多的人学会 AI 画画。并且也记录我励志打造100个AI产品的目标， 目前进度 4/100， 你可以在 [twitter](https://twitter.com/qiufenghyf) 关注我, 了解我的最新动态。
+Product list: [MewX AI Painting](https://www.mewx.art) | [Star Moon Bear](https://qr.mewx.art) | [ArtInk AI](https://www.artink.art) | [GoEnhance AI Image Enhancement](https://goenhance.ai) | [Video2Video](https://goenhance.ai) | [GPTs SEO Optimizer](https://chatgpt.com/g/g-Rj7Zxv61Y-seo-multilingual-master) | [stablediffusion3](https://stablediffusion3-site.vercel.app/)
 
-我的产品列表: [MewXAI绘画](https://www.mewx.art) | [星月熊](https://qr.mewx.art) | [艺映AI](https://www.artink.art) | [图片放大增强GoEnhance AI](https://goenhance.ai) | [视频转视频Video2Video](https://goenhance.ai) | [GPTs-SEO优化](https://chatgpt.com/g/g-Rj7Zxv61Y-seo-multilingual-master) | [stablediffusion3](https://stablediffusion3-site.vercel.app/)
+## Featured Projects
 
-## ChatTTS
+### ChatTTS
 
-ChatTTS是专门为对话场景设计的文本转语音模型，例如LLM助手对话任务。它支持英文和中文两种语言。最大的模型使用了10万小时以上的中英文数据进行训练。
+ChatTTS is a text-to-speech model designed for conversational scenarios such as LLM assistants. It supports both English and Chinese and was trained on more than 100,000 hours of bilingual speech data.
 
 [ChatTTS](https://www.chattts.co/)
 
-## Flux.1 
+### Flux.1
 
-在人工智能驱动的创意领域中，一颗新星冉冉升起：Flux.1 AI图像生成器。由Black Forest Labs开发的Flux.1正在彻底改变我们思考和创造视觉内容的方式。这款尖端的文本到图像合成模型正在图像生成领域树立新的标杆，提供无与伦比的质量、速度和多样性。
+Flux.1 is a text-to-image model from Black Forest Labs that focuses on strong prompt adherence, high image quality, and fast generation.
 
-Flux.1不仅仅是另一个AI图像生成器；它是一个游戏规则改变者，正在挑战Midjourney和DALL·E等老牌玩家。凭借其从文本描述创建令人惊叹的高分辨率图像的能力，Flux.1正为全球艺术家、设计师和内容创作者开启新的可能性。
+[Use Flux.1 for Free](https://www.goenhance.ai/tools/flux1-ai-image-generator)
 
-[免费使用Flux.1](https://www.goenhance.ai/tools/flux1-ai-image-generator)
+### Stable Cascade
 
-## stable-cascade
+Quick start:
 
-### 使用教程
+1. Install the latest version of ComfyUI.
+2. Download the required `stage_a`, `stage_b`, `stage_c`, and text encoder files.
+3. Place the model files in the correct ComfyUI directories.
 
-1.安装最新版本的 Comyfui
-... 
+[Read the full Stable Cascade guide](./stable-cascade/README.md)
 
-[查看更多](./stable-cascade/)
-
-
-## Magic Animate
+### Magic Animate
 
 <a href="https://www.youtube.com/watch?v=RDH5lyurock">
- <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/6069e649-53e4-4947-9121-6564797df480" width="600" alt="AI正确打开方式，一张图让小姐姐跳舞 | MagicAnimate 教程">
+ <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/6069e649-53e4-4947-9121-6564797df480" width="600" alt="MagicAnimate tutorial: making a character dance from a single image">
 </a>
- 
-地址: https://www.youtube.com/watch?v=RDH5lyurock
 
-## SDXL Turbo 
+Video: https://www.youtube.com/watch?v=RDH5lyurock
+
+### SDXL Turbo
 
 <a href="https://www.youtube.com/watch?v=Jh0kJl7duXM">
- <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/8f440d9a-9b3f-4239-af6f-ec8da12074e8" width="600" alt="SDXL Turbo 零基础 Comfyui 教程, 1秒4张图">
+ <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/8f440d9a-9b3f-4239-af6f-ec8da12074e8" width="600" alt="SDXL Turbo ComfyUI tutorial">
 </a>
 
-地址: https://www.youtube.com/watch?v=Jh0kJl7duXM
+Video: https://www.youtube.com/watch?v=Jh0kJl7duXM
 
-## 0.SDV - AI视频 - Stable diffusion Video
+### Stable Video Diffusion
 
-Comfyui 工作流: 
+ComfyUI workflow:
 
-1.SVD + 插帧 (from https://twitter.com/PurzBeats)
+1. SVD plus frame interpolation (from https://twitter.com/PurzBeats)
 
-![视频工作流](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/db9ad5ed-47d0-4cc7-bb6a-23e8b69ad585)
+![Stable Video Diffusion workflow](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/db9ad5ed-47d0-4cc7-bb6a-23e8b69ad585)
 
+### AnimateDiff
 
-## 1.AnimateDiff
+AnimateDiff resources in this repository currently focus on three usage paths:
 
-最近研究了一下 [AnimateDiff](https://github.com/guoyww/AnimateDiff), 对此用户进行了总结，从我整理的资料上来看，大体上使用的高阶应用分为三个种类：
+- CLI: https://github.com/s9roll7/animatediff-cli-prompt-travel
+- ComfyUI: https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
+- WebUI: https://github.com/continue-revolution/sd-webui-animatediff
 
-- cli  (https://github.com/s9roll7/animatediff-cli-prompt-travel)
-- comfyui (https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved)
-- webui (https://github.com/continue-revolution/sd-webui-animatediff)
- 
-以上工具的容易上手程度 webui > comfyui > cli ， 他们之前不存在谁能代替谁，我的理解只是使用的人机交互界面不同，所有方式都能实现一致的效果。不过目前看起来 webui 插件目前还带有部分模型灰图的情况，但是生态来说 webui 更加强大。
+In practice, WebUI is usually the easiest place to start, followed by ComfyUI and then CLI. They are different interfaces over similar capabilities rather than replacements for one another.
 
-具体的对比查看以及工作流 [AnimateDiff教程](./animatediff/README.md)
+[Read the AnimateDiff guide](./animatediff/README.md)
 
-## 2.我的AI产品之路
+## My AI Product Journey
 
+**2023-11-10: AI Video Product, ArtInk AI**
 
-**23.11.10-产品-AI视频-艺映AI**
-
-产品地址: [艺映AI](https://artink.art)
-
+Product: [ArtInk AI](https://artink.art)
 
 https://github.com/hua1995116/awesome-ai-painting/assets/12070073/ea435ef4-d3b0-4e96-990e-964dddb939cb
 
+**2023-07-22: AI QR Code Product, Star Moon Bear**
 
-**23.7.22-产品-AI二维码-星月熊**
-
-产品地址: [MewXAI星月熊](https://qr.mewx.art)
+Product: [Star Moon Bear](https://qr.mewx.art)
 
 <p>
  <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/63efbd41-a64e-41a4-805d-ca384d11dda3" height="200" />
@@ -94,147 +88,120 @@ https://github.com/hua1995116/awesome-ai-painting/assets/12070073/ea435ef4-d3b0-
  <img src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/ccb683f7-06a5-437b-8e35-70fd961279fb" width="100" />
 </p>
 
-**22.11.12-产品-AI绘画-MewXAI**
+**2022-11-12: AI Painting Product, MewX AI**
 
-[https://mewx.art](https://mewx.art)
+https://mewx.art
 
+**2021-07-13: Muji Resume**
 
-**21.7.13-新产品-木及简历**
+https://mujicv.com
 
-[https://mujicv.com](https://mujicv.com)
+## Recent Reads
 
+[A New Way to Improve Stable Diffusion Image Quality: FreeU](https://mp.weixin.qq.com/s/aHlPBxA3LybRhYPXsYzzJg)
 
-## 3.近期资讯
+![FreeU screenshot](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/714ec305-8424-4309-941b-b421e95d20d5)
 
-[让 Stable Diffusion 提高图片质量的新方案 —— FreeU](https://mp.weixin.qq.com/s/aHlPBxA3LybRhYPXsYzzJg)
+![FreeU comparison](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/36b426d7-e906-46d1-a8ff-4c0b3fe69f32)
 
-![image](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/714ec305-8424-4309-941b-b421e95d20d5)
+[4. Viral Light-and-Shadow Typography for AI Art](https://mp.weixin.qq.com/s/qGxmQxRNlOxBEJG7LkxPcg)
 
-![image](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/36b426d7-e906-46d1-a8ff-4c0b3fe69f32)
+Overview:
 
+> Try it now: https://qr.mewx.art
+>
+> This style of light-and-shadow typography became extremely popular on Chinese social platforms because it blends lettering into AI-generated imagery in a highly shareable way.
 
+<img width="600" alt="Light-and-shadow typography example" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/63efbd41-a64e-41a4-805d-ca384d11dda3">
 
-[4.最近超级火的光影文字来咯！一键生成，让你一看就会！](https://mp.weixin.qq.com/s/qGxmQxRNlOxBEJG7LkxPcg)
+[3. AI Turns Facial Text Into a New Art Style](https://www.qbitai.com/2023/07/69159.html)
 
-概览
-```
-立即体验：https://qr.mewx.art（稍后星月熊小程序也会同步上线）
+Overview:
 
-最近在某书、某音里，你肯定刷到这种超火的光影文字艺术作品，一发出去立刻能破万点赞。这种效果极具创意，将光影文字完美巧妙的融合进 AI 绘画里，收获了无数的喜欢，许多人甚至高价定制。
-```
+> AI art is moving fast, but this example stands out because the creative concept still feels deeply human.
 
-<img width="600" alt="image" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/63efbd41-a64e-41a4-805d-ca384d11dda3">
+<img width="600" alt="Facial typography example" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/18cb2212-62af-4953-91f2-52c8107aa899">
 
+[2. InvokeAI 3.0 Release](https://www.youtube.com/watch?v=A7uipq4lhrk)
 
+<img width="600" alt="InvokeAI 3.0 release" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/82208e00-955a-4d1c-a5db-4a6610a1a6f4">
 
-[3.AI这样把NB写在脸上，它在玩一种很新的艺术](https://www.qbitai.com/2023/07/69159.html)
+[1. Smooth AI Animation Workflow](https://www.reddit.com/r/StableDiffusion/comments/155lgrm/you_guys_seem_to_dont_like_anime_dancing_videos/)
 
-概览：
-```
-都说AI绘画来势汹汹，但论创意，还是人类玩得花。
+## Platforms for AI Art
 
-不信来看看这张乍一看平平无奇，却在网上疯传的AI生成美女图片：
+### Global Platforms
 
-AI这样把NB写在脸上，它在玩一种很新的艺术
+| Name | Access | URL |
+| ---- | ------ | --- |
+| midjourney | 20 free generations for new users | https://www.midjourney.com/ |
+| wombo.art | Free | https://app.wombo.art/ |
+| Google Colab | Free | https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb#scrollTo=yEErJFjlrSWS |
+| DALL·E 2 | Waitlist | https://openai.com/dall-e-2/ |
+| artbreeder | Free | https://www.artbreeder.com/beta/collage |
+| dreamstudio | 200 credits | https://beta.dreamstudio.ai/ |
+| nightcafe | Varies | https://creator.nightcafe.studio/create/text-to-image?algo=stable |
+| starryai | Varies | https://create.starryai.com/my-creations |
+| webui | Free | https://colab.research.google.com/github/altryne/sd-webui-colab/blob/main/Stable_Diffusion_WebUi_Altryne.ipynb |
+| Image replacement | Free | https://colab.research.google.com/drive/1R2HJvufacjy7GNrGCwgSE3LbQBk5qcS3?usp=sharing |
+| webui AUTOMATIC1111 build | Free | https://colab.research.google.com/drive/1Iy-xW9t1-OQWhb0hNxueGij8phCyluOh |
+| Video generation | Free | https://github.com/THUDM/CogVideo |
+| Photoshop plugin for image generation | Varies | https://www.nvidia.com/en-us/studio/canvas/ |
+| 3D models | Free | https://colab.research.google.com/drive/1u5-zA330gbNGKVfXMW5e3cmllbfafNNB?usp=sharing |
+| elbo | Varies | https://art.elbo.ai/ |
+| deepdreamgenerator | Varies | https://deepdreamgenerator.com/ |
+| big-sleep | Free | https://github.com/lucidrains/big-sleep/ |
+| nightcafe | Varies | https://nightcafe.studio/ |
+| craiyon | Varies | https://www.craiyon.com/ |
+| novelai | Varies | https://novelai.net/ |
+| novelai free version | Free | https://github.com/JingShing/novelai-colab-ver |
+| Sd-Outpainting | Free | https://github.com/lkwq007/stablediffusion-infinity |
+| TyPaint | Free | https://apps.apple.com/us/app/typaint-you-type-ai-paints/id1624024392 |
+| PicSo | 10 free generations per day for new users | https://picso.ai/ |
+| sd-outpainting | Free | https://github.com/lkwq007/stablediffusion-infinity |
+| novelai-colab version | Free | https://github.com/acheong08/Diffusion-ColabUI |
+| novelai-colab version 2 | Free | https://github.com/JingShing/novelai-colab-ver |
+| Maze.Guru | Free | https://maze.guru |
 
-```
-<img width="600" alt="image" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/18cb2212-62af-4953-91f2-52c8107aa899">
+### China-Focused Platforms
 
+The product names below are kept in their original branding where no established English name is obvious.
 
+#### General AI Art Products
 
-[2.InvokeAI 3.0 Release](https://www.youtube.com/watch?v=A7uipq4lhrk)
+| Name | Pricing | URL |
+| ---- | ------- | --- |
+| Wenxin Yige (文心一格) | Temporarily free | https://yige.baidu.com/#/ |
+| 6pen | Partially free | https://6pen.art/ |
+| MewxAI | Free | WeChat mini-program / https://mewx.art |
+| 大画家Domo | Varies | https://www.domo.cool/ |
+| 盗梦师 | Free tier plus paid plans | Search in WeChat mini-programs |
+| 画几个画 | Varies | Search in WeChat mini-programs |
+| Niko绘图 | Free with ads | Search in WeChat mini-programs |
+| 飞链云AI绘画版图 | Free | https://ai.feilianyun.cn/ |
+| Freehand意绘 | Free | https://freehand.yunwooo.com/ |
+| 即时AI | Free | https://js.design/pluginDetail?id=6322a4ab0eededcff6ba451a |
+| 意见AI绘画 | Free tier plus paid plans | Search in WeChat mini-programs |
+| PAI | Free | https://artpai.xyz/ |
+| 爱作画 | Free tier plus paid plans | https://aizuohua.com/ |
+| 皮卡智能AI | Free | https://www.picup.shop/text2image.html#/ |
+| 云景AI绘图 | Free | https://yunjing.gallery |
+| 100prompt | Free | http://100prompt.com |
+| TryYourAI | Partially free | https://tryyourai.com |
+| WaterWheel | Free tier plus paid plans | https://waterwheel.network |
 
-概览：
+#### Vertical AI Art Products
 
-<img width="600" alt="image" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/82208e00-955a-4d1c-a5db-4a6610a1a6f4">
+| Name | Pricing | URL | Use Case |
+| ---- | ------- | --- | -------- |
+| Miaoya Camera (妙鸭相机) | Free and paid plans | Search in WeChat mini-programs | AI portraits |
+| Star Moon Bear (星月熊) | Free and paid plans | https://qr.mewx.art | AI QR codes |
+| WeShop | Free and paid plans | https://weshop.com/ | AI fashion models |
+| Caiyu Camera (彩鱼相机) | Free and paid plans | https://pixpi.art/ | AI character imagery |
 
-[1.丝滑的AI动画工作流](https://www.reddit.com/r/StableDiffusion/comments/155lgrm/you_guys_seem_to_dont_like_anime_dancing_videos/)
+## Model Collections
 
-概览：
-
-[](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/0e86c712-997d-4036-8167-14183d13aeb4)
-
-
-
-
-
-## 4. 可使用绘画的平台
-
-### 📪 国外
-
-|Name                   | Tags   |URL                                                                                                                       |
-|-----------------------|-----------|-----------------------------------------------------------------------------------------------------------|
-|midjourney             |新用户免费20次|https://www.midjourney.com/                                                                                                    |
-|wombo.art              |免费      |https://app.wombo.art/                                                                                                         |
-|Google Colab           |免费      |https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb#scrollTo=yEErJFjlrSWS|
-|DALL·E 2               |排队申请    |https://openai.com/dall-e-2/                                                                                                   |
-|artbreeder             |免费      |https://www.artbreeder.com/beta/collage                                                                                        |
-|dreamstudio            |200点数   |https://beta.dreamstudio.ai/                                                                                                   |
-|nightcafe              |-       |https://creator.nightcafe.studio/create/text-to-image?algo=stable                                                              |
-|starryai               |-       |https://create.starryai.com/my-creations                                                                                       |
-|webui                  |免费      |https://colab.research.google.com/github/altryne/sd-webui-colab/blob/main/Stable_Diffusion_WebUi_Altryne.ipynb                 |
-|替换图片                   |免费      |https://colab.research.google.com/drive/1R2HJvufacjy7GNrGCwgSE3LbQBk5qcS3?usp=sharing                                          |
-|webui-AUTOMATIC1111版本  |免费      |https://colab.research.google.com/drive/1Iy-xW9t1-OQWhb0hNxueGij8phCyluOh                                                      |
-|生成视频                   |免费      |https://github.com/THUDM/CogVideo                                                                                              |
-|PS插件-绘画生成图片            |-       |https://www.nvidia.com/en-us/studio/canvas/                                                                                    |
-|3D模型                   |免费      |https://colab.research.google.com/drive/1u5-zA330gbNGKVfXMW5e3cmllbfafNNB?usp=sharing                                          |
-|[elbo](https://art.elbo.ai/lbo)|-       |https://art.elbo.ai/                                                                                                           |
-|deepdreamgenerator|-       |https://deepdreamgenerator.com/                                                                                                           |
-|big-sleep|免费       |https://github.com/lucidrains/big-sleep/                                                                                                           |
-|nightcafe|-       |https://nightcafe.studio/                                                                                                           |
-|craiyon|-       |https://www.craiyon.com/                                                                                                           |
-|novelai|-       |https://novelai.net/                                                                                                           |
-|novelai 免费版|免费 |https://github.com/JingShing/novelai-colab-ver |
-|Sd-Outpainting|免费 |https://github.com/lkwq007/stablediffusion-infinity |
-|TyPaint|免费 |https://apps.apple.com/us/app/typaint-you-type-ai-paints/id1624024392 |
-|PicSo|新用户每天免费10次 |https://picso.ai/ |
-|sd-outpaing|免费 |https://github.com/lkwq007/stablediffusion-infinity |
-|novelai-colab 版本|免费 |https://github.com/acheong08/Diffusion-ColabUI |
-|novelai-colab 版本2|免费 |https://github.com/JingShing/novelai-colab-ver |
-|Maze.Guru|免费 |https://maze.guru |
-
-
-
-### 🚴🏻 国内
-
-1.泛类AI绘画产品
-
-|Name                                                      | 价格  |URL                                                                                          |
-|--------------------------------------------------------------------|----|---------------------------------------------------------------------------------------------|
-|文心-一格                                                                                                                             |暂时免费|https://yige.baidu.com/#/                                                                    |
-|6pen                                                         |部分免费|https://6pen.art/                                                         |
-|MewxAI人工智能                                                        | 免费 | 微信小程序 / https://mewx.art                                           |
-|大画家Domo                                                                                                                           |-   |https://www.domo.cool/                                                                       |
-|盗梦师                                                                                                                       |有免费次数 + 付费   |微信小程序搜盗梦师                                                                                          |
-|画几个画                                                                                                                      |-   |微信小程序搜画几个画                                                                                          |
-|Niko绘图                                                                                                                      |免费 + 看广告 |微信小程序搜Niko绘图                                                                                          |
-|飞链云AI绘画版图                                                                                                                      |免费 |https://ai.feilianyun.cn/ |
-|[Freehand意绘](https://freehand.yunwooo.com/)                                       |免费                                        |https://freehand.yunwooo.com/|
-|即时AI                                       |免费                                        |https://js.design/pluginDetail?id=6322a4ab0eededcff6ba451a|
-|意见AI绘画                                                                                  |有免费次数 + 付费                  |微信小程序搜意见AI绘画|
-|PAI |免费 |https://artpai.xyz/|
-|爱作画 | 有免费次数 + 付费 |https://aizuohua.com/|
-|皮卡智能AI | 免费 |https://www.picup.shop/text2image.html#/ |
-|云景AI绘图 | 免费 |https://yunjing.gallery |
-|100prompt | 免费 | http://100prompt.com |
-|C站模型直接使用：TryYourAI | 部分免费 | https://tryyourai.com |
-|创作+赚钱：WaterWheel | 有免费次数 + 付费 | https://waterwheel.network |
-
-2.垂类绘画产品
-
-| Name     | 价格          | URL                 | 使用场景 |
-| -------- | ------------- | ------------------- | -------- |
-| 妙鸭相机 | 有免费/有付费 | 小程序搜妙鸭相机    | AI写真   |
-| 星月熊   | 有免费/有付费 | https://qr.mewx.art | AI二维码 |
-| WeShop   | 有免费/有付费 | https://weshop.com/ | AI模特   |
-| 彩鱼相机 | 有免费/有付费 | https://pixpi.art/  | AI形象   |
-
-
-
-### 模型合集
-
-
-#### 1.聚合网站
+### Aggregator Sites
 
 [civitai](https://civitai.com/)
 
@@ -242,8 +209,7 @@ AI这样把NB写在脸上，它在玩一种很新的艺术
 
 [tensor](https://tensor.art/)
 
-
-#### 2.基础模型
+### Base Models
 
 SDXL
 
@@ -261,138 +227,130 @@ SD 1.5
 
 https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt
 
-
-novelAI
+NovelAI
 
 https://huggingface.co/acheong08/secretAI/resolve/main/stableckpt/animefull-final-pruned/model.ckpt
 
+## Tutorials
 
-## 5. 使用教程
+### Stable Diffusion
 
-#### Stable Diffusion（推荐）
+[Qiuye Launcher](https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.999.0.0)
 
-[秋叶启动器](https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.999.0.0)
+[Deploy Your Own AI Art Cloud Platform with Colab for Free](https://mp.weixin.qq.com/s/2H1gCoOVBK89dIhEqoTQmA)
 
-[用Colab免费部署自己的AI绘画云平台—— Stable Diffusion](https://mp.weixin.qq.com/s/2H1gCoOVBK89dIhEqoTQmA)
+[Comprehensive Stable Diffusion Tutorial for AI Digital Painting](https://mp.weixin.qq.com/s/nDnQuZn3hVgrwqWVada2cw)
 
-[AI数字绘画 stable-diffusion 保姆级教程](https://mp.weixin.qq.com/s/nDnQuZn3hVgrwqWVada2cw)
+### Disco Diffusion
 
-#### Disco Diffusion ( 废弃 )
-[最简单全面本地运行Colab及Disco Diffusion教程](https://www.bilibili.com/read/cv16202697)
+[A Simple and Comprehensive Tutorial for Running Colab and Disco Diffusion Locally](https://www.bilibili.com/read/cv16202697)
 
-[人工智能绘画工具 Disco Diffusion 入门教程](https://www.zcool.com.cn/article/ZMTM3OTg3Mg==.html)
+[A Beginner's Guide to the AI Art Tool Disco Diffusion](https://www.zcool.com.cn/article/ZMTM3OTg3Mg==.html)
 
-[一条录制的Disco Diffusion 生成器教程的内容](https://weibo.com/5519581673/LnZuxbAC8?type=repost)
+[Recorded Disco Diffusion Generator Walkthrough](https://weibo.com/5519581673/LnZuxbAC8?type=repost)
 
-[堪比艺术家！被疯狂安利的 AI 插画神器 Disco Diffusion 有多强？](https://www.uisdc.com/disco-diffusion)
+[How Powerful Is Disco Diffusion as an AI Illustration Tool?](https://www.uisdc.com/disco-diffusion)
 
-[用AI如何画概念图？](https://www.shangyexinzhi.com/article/4648362.html)
+[How to Create Concept Art with AI](https://www.shangyexinzhi.com/article/4648362.html)
 
-#### webui必备插件合集
+### Essential WebUI Plugins
 
-[webui必备20+插件](./webui-essential-plugin/README.md)
+[Essential WebUI plugin collection](./webui-essential-plugin/README.md)
 
+## Self-Hosting Guides
 
+### China-Based GPU Providers
 
-## 6. 自建教程
-### GPU厂商 - 国内 （亲民价格）
+| Vendor | URL | Pricing |
+| ------ | --- | ------- |
+| autodl | https://www.autodl.com | About 1 RMB per hour, depending on the GPU |
+| 智星云 | http://gpu.ai-galaxy.cn/ | About 1 RMB per hour, depending on the GPU |
+| 恒源云 | https://gpushare.com/ | About 1 RMB per hour, depending on the GPU |
+| Tencent Cloud | https://cloud.tencent.com/act/pro/gpu-study | From 60 RMB for 0.5 months |
+| 仙宫云 | https://www.xiangongyun.com/ | About 1 RMB per hour, depending on the GPU |
+| Aliyun | https://www.aliyun.com/activity/bigdata/pai/studio | Free A10, T4, or G6 for one month |
 
-| 厂商   | 地址                                               | 价格                            |
-| ------ | -------------------------------------------------- | ------------------------------- |
-| autodl | https://www.autodl.com                             | 大约1元左右/h，根据不同显卡定价 |
-| 智星云 | http://gpu.ai-galaxy.cn/                           | 大约1元左右/h，根据不同显卡定价 |
-| 恒源云 | https://gpushare.com/                              | 大约1元左右/h，根据不同显卡定价 |
-| 腾讯云 | https://cloud.tencent.com/act/pro/gpu-study        | 最低 60元/0.5个月               |
-| 仙宫云 | https://www.xiangongyun.com/                       | 大约1元左右/h，根据不同显卡定价 |
-| 阿里云 | https://www.aliyun.com/activity/bigdata/pai/studio | 免费 A10/T4/G6 1个月            |
+### GPU References
 
-### 显卡选择
+GPU speed benchmarks:
 
-显卡速度
+![Tom's Hardware Stable Diffusion GPU benchmark](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/8ee6ffdd-bf1f-48b2-bc5d-19de42f25722)
 
-![image](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/8ee6ffdd-bf1f-48b2-bc5d-19de42f25722)
+![Additional GPU speed comparison](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/c8d2ae85-63a4-4c52-8f25-e788c3d9d05c)
 
-![image](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/c8d2ae85-63a4-4c52-8f25-e788c3d9d05c)
+Source: https://www.tomshardware.com/pc-components/gpus/stable-diffusion-benchmarks
 
-来源: https://www.tomshardware.com/pc-components/gpus/stable-diffusion-benchmarks
+![Puget Systems benchmark](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/a4aa8144-07df-42d0-82c2-5e94fe2c61f3)
 
-![image](https://github.com/hua1995116/awesome-ai-painting/assets/12070073/a4aa8144-07df-42d0-82c2-5e94fe2c61f3)
+Source: https://www.pugetsystems.com/labs/articles/stable-diffusion-performance-nvidia-geforce-vs-amd-radeon/
 
-来源: https://www.pugetsystems.com/labs/articles/stable-diffusion-performance-nvidia-geforce-vs-amd-radeon/
+GPU price-to-performance chart:
 
-显卡性价比跑分图
+<img width="1147" alt="GPU price-to-performance chart" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/11c2e60a-51dc-4cf2-8b58-b256b6978106">
 
-<img width="1147" alt="image" src="https://github.com/hua1995116/awesome-ai-painting/assets/12070073/11c2e60a-51dc-4cf2-8b58-b256b6978106">
+[Which GPU Best Fits a Stable Diffusion Workstation in the RTX 3090 Era?](https://zhuanlan.zhihu.com/p/225507448)
 
-[时代变了，大人：RTX 3090时代，哪款显卡配得上我的炼丹炉？](https://zhuanlan.zhihu.com/p/225507448)
+### Build Guides
 
-### 自建教程
-[人人都能用的「AI 作画」，如何把 Stable Diffusion 装进电脑？](https://mp.weixin.qq.com/s/jL4m4e-A1oc44Z8PLyvA2A)
+[AI Art for Everyone: How to Install Stable Diffusion on Your Computer](https://mp.weixin.qq.com/s/jL4m4e-A1oc44Z8PLyvA2A)
 
-[https://github.com/fboulnois/stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker)
+[stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker)
 
-[https://github.com/AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
+[stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
 
-### MAC自建
+### macOS Setup
 
-[Run](https://replicate.com/blog/run-stable-diffusion-on-m1-mac)
+[Run Stable Diffusion on an M1 Mac](https://replicate.com/blog/run-stable-diffusion-on-m1-mac)
 
-[https://github.com/divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+[diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 
-## 4. 调参教程
+## Prompt References
 
-### NovelAI专属
+### NovelAI
 
-Novel AI 元素魔法全收录 https://docs.qq.com/doc/DWHl3am5Zb05QbGVs
+NovelAI element guide: https://docs.qq.com/doc/DWHl3am5Zb05QbGVs
 
 http://wolfchen.top/tag/
 
-https://aitag.top/  
+https://aitag.top/
 
 https://tags.novelai.dev/
 
-元素法典——Novel AI 元素魔法全收录: https://docs.qq.com/doc/DWHl3am5Zb05QbGVs
+NovelAI spell analysis: https://spell.novelai.dev/
 
-NovelAI 法术解析: https://spell.novelai.dev/
+### Disco Diffusion Keywords
 
-### DD关键词
+[Disco Diffusion prompt reference](https://www.notion.so/Disco-Diffusion-d8a78d7a5a8b40238da820687615dee6)
 
-[Disco Diffusion](https://www.notion.so/Disco-Diffusion-d8a78d7a5a8b40238da820687615dee6) 
+### Stable Diffusion Keywords
 
-### SD 关键词
+[arthub.ai](https://arthub.ai/)
 
-[https://arthub.ai/](https://arthub.ai/)
+[lexica.art](https://lexica.art/)
 
-[https://lexica.art/](https://lexica.art/) 
+[krea.ai](https://www.krea.ai/?continueFlag=6591d07b3186f4c7e58de1a4bcfaefb0)
 
-[https://www.krea.ai/?continueFlag=6591d07b3186f4c7e58de1a4bcfaefb0](https://www.krea.ai/?continueFlag=6591d07b3186f4c7e58de1a4bcfaefb0)
+[promptomania Stable Diffusion prompt builder](https://promptomania.com/stable-diffusion-prompt-builder/)
 
-[https://promptomania.com/stable-diffusion-prompt-builder/](https://promptomania.com/stable-diffusion-prompt-builder/)
+### Midjourney Keywords
 
-### MJ关键词
+[prompt.noonshot.com](https://prompt.noonshot.com/midjourney)
 
-[https://prompt.noonshot.com/midjourney](https://prompt.noonshot.com/midjourney)
+[Hugging Face prompt generator](https://huggingface.co/spaces/doevent/prompt-generator)
 
-[https://huggingface.co/spaces/doevent/prompt-generator](https://huggingface.co/spaces/doevent/prompt-generator)
+[midjourney-prompt-helper.netlify.app](https://midjourney-prompt-helper.netlify.app/)
 
-[https://midjourney-prompt-helper.netlify.app/](https://midjourney-prompt-helper.netlify.app/)
+[promptsalsa Midjourney prompt generator](https://promptsalsa.com/midjourney-prompt-generator/)
 
-[https://promptsalsa.com/midjourney-prompt-generator/](https://promptsalsa.com/midjourney-prompt-generator/)
+### Additional Prompt Tools
 
-### 法术解析
-
-https://spell.novelai.dev/
-
-Deep Danbooru：
+Deep Danbooru:
 http://dev.kanotype.net:8003/deepdanbooru/
 
 http://www.prompttool.com/
 
+## Community
 
+WeChat: the main group is full. Contact `qiufengblue` for an invite.
 
-## 7. 交流群
-
-**微信群：已满群可加 qiufengblue**
-
-**QQ群: 713773093**
-
+QQ group: `713773093`
