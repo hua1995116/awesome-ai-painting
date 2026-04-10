@@ -6,6 +6,7 @@
 
 我的产品列表: [MewXAI绘画](https://www.mewx.art) | [星月熊](https://qr.mewx.art) | [艺映AI](https://www.artink.art) | [图片放大增强GoEnhance AI](https://goenhance.ai) | [视频转视频Video2Video](https://goenhance.ai) | [GPTs-SEO优化](https://chatgpt.com/g/g-Rj7Zxv61Y-seo-multilingual-master) | [stablediffusion3](https://stablediffusion3-site.vercel.app/)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=hua1995116_awesome-ai-painting) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## ChatTTS
 
 ChatTTS是专门为对话场景设计的文本转语音模型，例如LLM助手对话任务。它支持英文和中文两种语言。最大的模型使用了10万小时以上的中英文数据进行训练。
