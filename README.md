@@ -47,6 +47,7 @@ Flux.1不仅仅是另一个AI图像生成器；它是一个游戏规则改变者
 地址: https://www.youtube.com/watch?v=Jh0kJl7duXM
 
 ## 0.SDV - AI视频 - Stable diffusion Video
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 Comfyui 工作流: 
 
