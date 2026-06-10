@@ -192,6 +192,7 @@ AI这样把NB写在脸上，它在玩一种很新的艺术
 |novelai-colab 版本|免费 |https://github.com/acheong08/Diffusion-ColabUI |
 |novelai-colab 版本2|免费 |https://github.com/JingShing/novelai-colab-ver |
 |Maze.Guru|免费 |https://maze.guru |
+|Drawtoon (AI漫画/manhwa)|有免费/付费 |https://drawtoon.app |
 
 
 
