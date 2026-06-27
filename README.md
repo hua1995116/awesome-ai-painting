@@ -395,4 +395,5 @@ http://www.prompttool.com/
 **微信群：已满群可加 qiufengblue**
 
 **QQ群: 713773093**
+- [Toolquix - AI Tools](https://toolquix.com/categories/ai-tools) - A curated directory of free AI tools, ChatGPT resources, and artificial intelligence software.
 
