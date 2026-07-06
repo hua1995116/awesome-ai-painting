@@ -20,6 +20,8 @@ Flux.1不仅仅是另一个AI图像生成器；它是一个游戏规则改变者
 
 [免费使用Flux.1](https://www.goenhance.ai/tools/flux1-ai-image-generator)
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 ## stable-cascade
 
 ### 使用教程
