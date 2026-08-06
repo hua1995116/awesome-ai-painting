@@ -219,6 +219,7 @@ AI这样把NB写在脸上，它在玩一种很新的艺术
 |100prompt | 免费 | http://100prompt.com |
 |C站模型直接使用：TryYourAI | 部分免费 | https://tryyourai.com |
 |创作+赚钱：WaterWheel | 有免费次数 + 付费 | https://waterwheel.network |
+| Zicisi AI | 注册送50积分，$1体验 | https://zicisi.fun |
 
 2.垂类绘画产品
 
