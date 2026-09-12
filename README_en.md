@@ -172,6 +172,7 @@ Overview:
 |novelai-colab version  |Free              |https://github.com/acheong08/Diffusion-ColabUI                                                                             |
 |novelai-colab version 2|Free              |https://github.com/JingShing/novelai-colab-ver                                                                             |
 |Maze.Guru              |Free              |https://maze.guru                                                                                                          |
+|AI Image|Text-to-image, image editing and restyling|[AI Image](https://aiimage.com)|
 
 ### 🚴🏻 Chinese
 
